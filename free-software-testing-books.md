@@ -9,7 +9,7 @@
 * [What If: 50+ tips to boost your productivity](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf) - Ajay Balamurugadas (PDF)
 * [What If: 50+ tips to improve tester-programmer relationship](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-improve-tester-programmer-relationship.pdf) - Ajay Balamurugadas (PDF)
 * [Mobile Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) - Ajay Balamurugadas (PDF)
-	* [UI and UX Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/ui_and_ux_testing_ready_reckoner.pdf) - Ajay Balamurugadas (PDF)
+* [UI and UX Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/ui_and_ux_testing_ready_reckoner.pdf) - Ajay Balamurugadas (PDF)
 * [A Tutorial in Exploratory Testing](http://www.kaner.com/pdfs/QAIExploring.pdf) (PDF)
 * [Standard for Software Component Testing](http://www.testingstandards.co.uk/Component%20Testing.pdf) (PDF)
 * [I am a bug!](http://www.amibug.com/iamabug/p01.html)
