@@ -21,3 +21,4 @@
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript)
 * [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book)
 * [Test-Driven Development in practice](https://github.com/risik/tdd-book) - Sergey Borisov
+* [random-testing-book](https://github.com/regehr/random-testing-book) DRAFT
