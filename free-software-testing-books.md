@@ -17,4 +17,7 @@
 * [Building and testing with Gradle](http://www.gradleware.com/registered-access?content=books%2Fbuilding-and-testing%2F)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 * [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
-* [A Software Testing Primer](http://www.softwaretestinghelp.com/software-testing-book-download/) Nick Jenkins
+* [A Software Testing Primer](http://www.softwaretestinghelp.com/software-testing-book-download/) - Nick Jenkins
+* [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript)
+* [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book)
+* [Test-Driven Development in practice](https://github.com/risik/tdd-book) - Sergey Borisov
