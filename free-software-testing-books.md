@@ -12,3 +12,8 @@
 * [UI and UX Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/ui_and_ux_testing_ready_reckoner.pdf) (PDF)
 * [A Tutorial in Exploratory Testing](http://www.kaner.com/pdfs/QAIExploring.pdf) (PDF)
 * [Standard for Software Component Testing](http://www.testingstandards.co.uk/Component%20Testing.pdf) (PDF)
+* [I am a bug!](http://www.amibug.com/iamabug/p01.html)
+* [Record-Playback Test Automation: Sahi & Selenium IDE](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi)
+* [Building and testing with Gradle](http://www.gradleware.com/registered-access?content=books%2Fbuilding-and-testing%2F)
+* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
+* [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
