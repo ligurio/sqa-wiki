@@ -28,3 +28,11 @@
 * [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality](http://refcardz.dzone.com/refcardz/phpunit-php-test-driven)
 * [.NET Performance Testing and Optimization - The Complete Guide](http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip) (zip) -  RedGate, By Paul Glavich and Chris Farrell
 * [Cartoon tester](http://cartoontester.blogspot.ru)
+* [HP Quality Center Tutorial](http://www.tutorialspoint.com/qc/index.htm) (tutorial)
+* [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
+* [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
+* [The International Software Testing Standard](http://softwaretestingstandard.org/)
+* [HP QuickTest Professional Tutorial](http://www.tutorialspoint.com/qtp/index.htm)
+* [TestNG Tutorial](http://www.tutorialspoint.com/testng/index.htm)
+* [JUnit Tutorial](http://www.tutorialspoint.com/junit/index.htm)
+* [Testing Standards Working Party](http://www.testingstandards.co.uk/)
