@@ -1,7 +1,7 @@
 ﻿### Software testing free ebooks
 * [Software Testing and Internationalization](http://iclass.iuea.ac.ug/intranet/E-books/INFORMATION%20TECHNOLOGY/SOFTWARE%20ENGINEERING/Software_Testing_Internationalization.pdf) (PDF)
 * [A Software Testing Primer](http://www.nickjenkins.net/prose/testingPrimer.pdf) (PDF)
-* [Introduction to software testing](http://fit.hcmup.edu.vn/~haits/English%20Courses/Software%20Testing/Introduction%20to%20Software%20Testing.pdf) (PDF)
+* [Introduction to software testing](http://ebooks.allfree-stuff.com/eBooks_down/Software%20Testing/Introduction%20to%20Software%20Testing.pdf) (PDF)
 * [The Littleblack Book On Test Design](http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) (PDF)
 * [Testing Erlang](https://github.com/zkessin/testing-erlang-book)
 * [A collection of tips from a software tester](http://enjoytesting.files.wordpress.com/2013/10/whatif.pdf) - Ajay Balamurugadas (PDF)
