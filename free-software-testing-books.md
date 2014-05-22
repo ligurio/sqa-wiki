@@ -26,3 +26,5 @@
 * [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
 * [Selenium 2.0 Using the WebDriver API to Create Robust User Acceptance Tests](http://refcardz.dzone.com/refcardz/getting-started-selenium-20#refcard-download-social-buttons-display)
 * [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality](http://refcardz.dzone.com/refcardz/phpunit-php-test-driven)
+* [.NET Performance Testing and Optimization - The Complete Guide](http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip) (zip) -  RedGate, By Paul Glavich and Chris Farrell
+* [Cartoon tester](http://cartoontester.blogspot.ru)
