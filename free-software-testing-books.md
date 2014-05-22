@@ -22,3 +22,7 @@
 * [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book)
 * [Test-Driven Development in practice](https://github.com/risik/tdd-book) - Sergey Borisov
 * [random-testing-book](https://github.com/regehr/random-testing-book) DRAFT
+* [Acceptance Test Engineering Guide, Vol. I - RC1](https://testingguidance.codeplex.com/)
+* [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
+* [Selenium 2.0 Using the WebDriver API to Create Robust User Acceptance Tests](http://refcardz.dzone.com/refcardz/getting-started-selenium-20#refcard-download-social-buttons-display)
+* [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality](http://refcardz.dzone.com/refcardz/phpunit-php-test-driven)
