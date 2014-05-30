@@ -2,7 +2,7 @@ List of Free Learning Resources
 
 ##Intro
 Someone introduced a list of [free programming ebooks](https://github.com/vhf/free-programming-books).
-I have decided to create similar list but for software testing books.
+I have decided to create similar list but for [software testing books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md).
 
 ### How To Contribute
 - [Fork](https://help.github.com/articles/fork-a-repo)
