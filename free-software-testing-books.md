@@ -37,3 +37,4 @@
 * [JUnit Tutorial](http://www.tutorialspoint.com/junit/index.htm)
 * [Testing Standards Working Party](http://www.testingstandards.co.uk/)
 * [Quality Improvement in Volunteer Free and Open Source Software Project](http://www.cyrius.com/publications/michlmayr-phd.pdf) (PDF)
+* [Essential Acceptance Testing](https://leanpub.com/essential_acceptance_testing/c/HgPDBsxyYT6q)
