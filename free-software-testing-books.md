@@ -1,9 +1,9 @@
 ﻿###Index
-* [Testing of Free and OpenSource Software](#foss)
-* [Testing with different programming languages](#language)
+* [Testing of Free and OpenSource Software](#testing-of-free-and-opensource-software)
+* [Testing with different programming languages](#testing-with-different-programming-languages)
 * [Testing Tools](#testing-tools)
-* [Standards in software testing](#standards)
-* [Software testing theory](#theory)
+* [Standards in software testing](#standards-in-software-testing)
+* [Software testing theory](#software-testing-theory)
 
 ####Testing of Free and OpenSource Software
 * [Quality Improvement in Volunteer Free and Open Source Software Project](http://www.cyrius.com/publications/michlmayr-phd.pdf) (PDF)
