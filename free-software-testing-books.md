@@ -1,25 +1,10 @@
-﻿###Index
+###Index
+* [Software testing theory](#software-testing-theory)
+* [Standards in software testing](#standards-in-software-testing)
 * [Testing of Free and OpenSource Software](#testing-of-free-and-opensource-software)
 * [Testing with different programming languages](#testing-with-different-programming-languages)
 * [Testing Tools](#testing-tools)
-* [Standards in software testing](#standards-in-software-testing)
-* [Software testing theory](#software-testing-theory)
 
-####Testing of Free and OpenSource Software
-* [Quality Improvement in Volunteer Free and Open Source Software Project](http://www.cyrius.com/publications/michlmayr-phd.pdf) (PDF)
-
-####Testing with different programming languages
-* [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality](http://refcardz.dzone.com/refcardz/phpunit-php-test-driven)
-* [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
-* [Testing Erlang](https://github.com/zkessin/testing-erlang-book)
-* [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book)
-* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
-* [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript)
-
-####Standards in software testing
-* [Testing Standards Working Party](http://www.testingstandards.co.uk/)
-* [The International Software Testing Standard](http://softwaretestingstandard.org/)
-* [Standard for Software Component Testing](http://www.testingstandards.co.uk/Component%20Testing.pdf) (PDF)
 
 ####Software testing theory
 * [Acceptance Test Engineering Guide, Vol. I - RC1](https://testingguidance.codeplex.com/)
@@ -43,6 +28,26 @@
 * [What If: 50+ tips to win testing contests](http://enjoytesting.files.wordpress.com/2013/10/50tipstowintestingcontests.pdf) - Ajay Balamurugadas (PDF)
 * [What If: 50+ tips to boost your productivity](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf) - Ajay Balamurugadas (PDF)
 * [What If: 50+ tips to improve tester-programmer relationship](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-improve-tester-programmer-relationship.pdf) - Ajay Balamurugadas (PDF)
+
+
+####Standards in software testing
+* [Testing Standards Working Party](http://www.testingstandards.co.uk/)
+* [The International Software Testing Standard](http://softwaretestingstandard.org/)
+* [Standard for Software Component Testing](http://www.testingstandards.co.uk/Component%20Testing.pdf) (PDF)
+
+
+####Testing of Free and OpenSource Software
+* [Quality Improvement in Volunteer Free and Open Source Software Project](http://www.cyrius.com/publications/michlmayr-phd.pdf) (PDF)
+
+
+####Testing with different programming languages
+* [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality](http://refcardz.dzone.com/refcardz/phpunit-php-test-driven)
+* [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
+* [Testing Erlang](https://github.com/zkessin/testing-erlang-book)
+* [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book)
+* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
+* [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript)
+
 
 ####Testing Tools
 * [Building and testing with Gradle](http://www.gradleware.com/registered-access?content=books%2Fbuilding-and-testing%2F)
