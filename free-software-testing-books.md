@@ -1,14 +1,14 @@
 ﻿###Index
-* [Free and OpenSource Software](#FOSS)
-* [Testing with different programming languages](#Language)
-* [Testing Tools](#Tools)
-* [Standards in software testing](#Standards)
-* [Software testing theory](#Theory)
+* [Testing of Free and OpenSource Software](#foss)
+* [Testing with different programming languages](#language)
+* [Testing Tools](#tools)
+* [Standards in software testing](#standards)
+* [Software testing theory](#theory)
 
-####FOSS
+####Testing of Free and OpenSource Software
 * [Quality Improvement in Volunteer Free and Open Source Software Project](http://www.cyrius.com/publications/michlmayr-phd.pdf) (PDF)
 
-####Language
+####Testing with different programming languages
 * [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality](http://refcardz.dzone.com/refcardz/phpunit-php-test-driven)
 * [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Testing Erlang](https://github.com/zkessin/testing-erlang-book)
@@ -16,12 +16,12 @@
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript)
 
-####Standards
+####Standards in software testing
 * [Testing Standards Working Party](http://www.testingstandards.co.uk/)
 * [The International Software Testing Standard](http://softwaretestingstandard.org/)
 * [Standard for Software Component Testing](http://www.testingstandards.co.uk/Component%20Testing.pdf) (PDF)
 
-####Theory
+####Software testing theory
 * [Acceptance Test Engineering Guide, Vol. I - RC1](https://testingguidance.codeplex.com/)
 * [A collection of tips from a software tester](http://enjoytesting.files.wordpress.com/2013/10/whatif.pdf) - Ajay Balamurugadas (PDF)
 * [A Software Testing Primer](http://www.nickjenkins.net/prose/testingPrimer.pdf) (PDF)
@@ -44,7 +44,7 @@
 * [What If: 50+ tips to boost your productivity](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf) - Ajay Balamurugadas (PDF)
 * [What If: 50+ tips to improve tester-programmer relationship](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-improve-tester-programmer-relationship.pdf) - Ajay Balamurugadas (PDF)
 
-####Tools
+####Testing Tools
 * [Building and testing with Gradle](http://www.gradleware.com/registered-access?content=books%2Fbuilding-and-testing%2F)
 * [HP Quality Center Tutorial](http://www.tutorialspoint.com/qc/index.htm) (tutorial)
 * [HP QuickTest Professional Tutorial](http://www.tutorialspoint.com/qtp/index.htm)
