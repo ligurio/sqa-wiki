@@ -1,7 +1,7 @@
 ﻿###Index
 * [Testing of Free and OpenSource Software](#foss)
 * [Testing with different programming languages](#language)
-* [Testing Tools](#tools)
+* [Testing Tools](#testing-tools)
 * [Standards in software testing](#standards)
 * [Software testing theory](#theory)
 
