@@ -1,9 +1,9 @@
 ﻿###Index
 * [Free and OpenSource Software](#FOSS)
 * [Testing with different programming languages](#Language)
+* [Testing Tools](#Tools)
 * [Standards in software testing](#Standards)
 * [Software testing theory](#Theory)
-* [Testing Tools](#Tools)
 
 ####FOSS
 * [Quality Improvement in Volunteer Free and Open Source Software Project](http://www.cyrius.com/publications/michlmayr-phd.pdf) (PDF)
@@ -27,8 +27,11 @@
 * [A Software Testing Primer](http://www.nickjenkins.net/prose/testingPrimer.pdf) (PDF)
 * [A Software Testing Primer](http://www.softwaretestinghelp.com/software-testing-book-download/) - Nick Jenkins
 * [A Tutorial in Exploratory Testing](http://www.kaner.com/pdfs/QAIExploring.pdf) (PDF)
+* [Cartoon tester](http://cartoontester.blogspot.ru)
 * [Essential Acceptance Testing](https://leanpub.com/essential_acceptance_testing/c/HgPDBsxyYT6q)
 * [Introduction to software testing](http://ebooks.allfree-stuff.com/eBooks_down/Software%20Testing/Introduction%20to%20Software%20Testing.pdf) (PDF)
+* [I am a bug!](http://www.amibug.com/iamabug/p01.html)
+* [Mobile Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) - Ajay Balamurugadas (PDF)
 * [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
 * [Random testing book](https://github.com/regehr/random-testing-book) DRAFT
 * [Software Testing and Internationalization](http://iclass.iuea.ac.ug/intranet/E-books/INFORMATION%20TECHNOLOGY/SOFTWARE%20ENGINEERING/Software_Testing_Internationalization.pdf) (PDF)
@@ -40,10 +43,6 @@
 * [What If: 50+ tips to win testing contests](http://enjoytesting.files.wordpress.com/2013/10/50tipstowintestingcontests.pdf) - Ajay Balamurugadas (PDF)
 * [What If: 50+ tips to boost your productivity](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf) - Ajay Balamurugadas (PDF)
 * [What If: 50+ tips to improve tester-programmer relationship](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-improve-tester-programmer-relationship.pdf) - Ajay Balamurugadas (PDF)
-
-* [Mobile Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) - Ajay Balamurugadas (PDF)
-* [I am a bug!](http://www.amibug.com/iamabug/p01.html)
-* [Cartoon tester](http://cartoontester.blogspot.ru)
 
 ####Tools
 * [Building and testing with Gradle](http://www.gradleware.com/registered-access?content=books%2Fbuilding-and-testing%2F)
