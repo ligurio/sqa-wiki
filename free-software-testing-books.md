@@ -11,6 +11,7 @@
 * [A Software Testing Primer](http://www.nickjenkins.net/prose/testingPrimer.pdf) (PDF)
 * [A Software Testing Primer](http://www.softwaretestinghelp.com/software-testing-book-download/) - Nick Jenkins
 * [A Tutorial in Exploratory Testing](http://www.kaner.com/pdfs/QAIExploring.pdf) (PDF)
+* [Manager's Black Book](http://transition2pro.com/mbb/)
 * [Cartoon tester](http://cartoontester.blogspot.ru)
 * [Essential Acceptance Testing](https://leanpub.com/essential_acceptance_testing/c/HgPDBsxyYT6q)
 * [Embedded Software Testing Methods](https://www.theseus.fi/bitstream/handle/10024/46873/Lepisto_Juho.pdf?sequence=1) Juho Lepistö
@@ -24,7 +25,6 @@
 * [Random testing book](https://github.com/regehr/random-testing-book) DRAFT
 * [Revolutionize Your QA](http://go.utest.com/revolutionize-your-qa-ebook.html) Dr. James Whittaker
 * [Software testing](http://www.rmcet.com/lib/E-Books/Other/Software_Testing.pdf)
-* [Software Testing Tutorial](http://actoolkit.unprme.org/wp-content/resourcepdf/software_testing.pdf) (PDF)
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
 * [Software Testing and Internationalization](http://iclass.iuea.ac.ug/intranet/E-books/INFORMATION%20TECHNOLOGY/SOFTWARE%20ENGINEERING/Software_Testing_Internationalization.pdf) Manfred Rätzmann, Clinton De Young
