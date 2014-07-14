@@ -1,6 +1,6 @@
 List of Free Learning Resources
 
-##Intro
+### Intro
 Someone introduced a list of [free programming ebooks](https://github.com/vhf/free-programming-books).
 I have decided to create similar list but for [software testing books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md).
 
@@ -14,3 +14,9 @@ I have decided to create similar list but for [software testing books](https://g
 + [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/ligurio/free-software-testing-books)
 + [Share on Google Plus](https://plus.google.com/share?url=https://github.com/ligurio/free-software-testing-books)
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/ligurio/free-software-testing-books&summary=&source=)
+
+### License
+
+[![CC0 Public Domain](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Sergey Bronnikov](https://bronevichok.ru) has waived all copyright and related or neighboring rights to this work.
