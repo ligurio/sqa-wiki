@@ -1,4 +1,4 @@
-List of Free Learning Resources
+## List of Free Learning Resources
 
 ### Intro
 Someone introduced a list of [free programming ebooks](https://github.com/vhf/free-programming-books).
