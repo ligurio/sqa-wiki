@@ -20,21 +20,21 @@
 * [Introduction to software testing](http://ebooks.allfree-stuff.com/eBooks_down/Software%20Testing/Introduction%20to%20Software%20Testing.pdf) (PDF)
 * [I am a bug!](http://www.amibug.com/iamabug/p01.html)
 * [Manual Testing Help](http://www.softwaretestinghelp.com/manual-testing-help-ebook-free-download/)
-* [Mobile Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) - Ajay Balamurugadas (PDF)
+* [Mobile Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) (PDF) - Ajay Balamurugadas
 * [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
 * [Random testing book](https://github.com/regehr/random-testing-book) DRAFT
 * [Revolutionize Your QA](http://go.utest.com/revolutionize-your-qa-ebook.html) Dr. James Whittaker
-* [Software testing](http://www.rmcet.com/lib/E-Books/Other/Software_Testing.pdf)
+* [Software testing](http://www.rmcet.com/lib/E-Books/Other/Software_Testing.pdf) (PDF)
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
-* [Software Testing and Internationalization](http://iclass.iuea.ac.ug/intranet/E-books/INFORMATION%20TECHNOLOGY/SOFTWARE%20ENGINEERING/Software_Testing_Internationalization.pdf) Manfred Rätzmann, Clinton De Young
+* [Software Testing and Internationalization](http://iclass.iuea.ac.ug/intranet/E-books/INFORMATION%20TECHNOLOGY/SOFTWARE%20ENGINEERING/Software_Testing_Internationalization.pdf) (PDF) Manfred Rätzmann, Clinton De Young
 * [The Littleblack Book On Test Design](http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) (PDF)
 * [The Essential Guide to Mobile App Testing](http://core.ecu.edu/STRG/materials/uTest_eBook_Mobile_Testing.pdf) (PDF)
-* [UI and UX Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/ui_and_ux_testing_ready_reckoner.pdf) - Ajay Balamurugadas (PDF)
-* [What If: A collection of tips from a software tester](http://enjoytesting.files.wordpress.com/2013/10/whatif.pdf) - Ajay Balamurugadas (PDF)
-* [What If: 50+ tips to win testing contests](http://enjoytesting.files.wordpress.com/2013/10/50tipstowintestingcontests.pdf) - Ajay Balamurugadas (PDF)
-* [What If: 50+ tips to boost your productivity](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf) - Ajay Balamurugadas (PDF)
-* [What If: 50+ tips to improve tester-programmer relationship](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-improve-tester-programmer-relationship.pdf) - Ajay Balamurugadas (PDF)
+* [UI and UX Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/ui_and_ux_testing_ready_reckoner.pdf) (PDF) - Ajay Balamurugadas
+* [What If: A collection of tips from a software tester](http://enjoytesting.files.wordpress.com/2013/10/whatif.pdf) (PDF) - Ajay Balamurugadas
+* [What If: 50+ tips to win testing contests](http://enjoytesting.files.wordpress.com/2013/10/50tipstowintestingcontests.pdf) (PDF) - Ajay Balamurugadas
+* [What If: 50+ tips to boost your productivity](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf) (PDF) - Ajay Balamurugadas
+* [What If: 50+ tips to improve tester-programmer relationship](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-improve-tester-programmer-relationship.pdf) (PDF) - Ajay Balamurugadas
 
 
 ####Standards in software testing
@@ -58,7 +58,7 @@
 
 
 ####Testing Tools
-* [AccelTest](http://www.lausd.net/istem/2know_files/Software_Manual.pdf)
+* [AccelTest](http://www.lausd.net/istem/2know_files/Software_Manual.pdf) (PDF)
 * [A Step-by-Step Guide to Functional Testing with TestComplete](http://www2.smartbear.com/download-mqi-inbound-testcomplete-functional-testing-top-5-ebook-blog.html)
 * [Building and testing with Gradle](http://www.gradleware.com/registered-access?content=books%2Fbuilding-and-testing%2F)
 * [HP Quality Center Tutorial](http://www.tutorialspoint.com/qc/index.htm) (tutorial)
