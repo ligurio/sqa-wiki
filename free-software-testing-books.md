@@ -23,8 +23,9 @@
 * [Mobile Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) (PDF) - Ajay Balamurugadas
 * [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
 * [Random testing book](https://github.com/regehr/random-testing-book) DRAFT
-* [Revolutionize Your QA](http://go.utest.com/revolutionize-your-qa-ebook.html) Dr. James Whittaker
+* [Revolutionize Your QA](http://go.utest.com/revolutionize-your-qa-ebook.html) - Dr. James Whittaker
 * [Software testing](http://www.rmcet.com/lib/E-Books/Other/Software_Testing.pdf) (PDF)
+* [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
 * [Software Testing and Internationalization](http://iclass.iuea.ac.ug/intranet/E-books/INFORMATION%20TECHNOLOGY/SOFTWARE%20ENGINEERING/Software_Testing_Internationalization.pdf) (PDF) Manfred Rätzmann, Clinton De Young
@@ -53,6 +54,7 @@
 * [Testing Erlang](https://github.com/zkessin/testing-erlang-book)
 * [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
+* [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski  
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript)
 * [Web Application Testing in Ruby](https://leanpub.com/watirbook/read) Željko Filipin
 
