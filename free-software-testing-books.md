@@ -63,7 +63,7 @@
 * [AccelTest](http://www.lausd.net/istem/2know_files/Software_Manual.pdf) (PDF)
 * [A Step-by-Step Guide to Functional Testing with TestComplete](http://www2.smartbear.com/download-mqi-inbound-testcomplete-functional-testing-top-5-ebook-blog.html)
 * [Building and testing with Gradle](http://www.gradleware.com/registered-access?content=books%2Fbuilding-and-testing%2F)
-* [HP Quality Center Tutorial](http://www.tutorialspoint.com/qc/index.htm) (tutorial)
+* [HP Quality Center Tutorial](http://www.tutorialspoint.com/qc/index.htm)
 * [HP QuickTest Professional Tutorial](http://www.tutorialspoint.com/qtp/index.htm)
 * [.NET Performance Testing and Optimization - The Complete Guide](http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip) (zip) -  RedGate, By Paul Glavich and Chris Farrell
 * [Record-Playback Test Automation: Sahi & Selenium IDE](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi)
