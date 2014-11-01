@@ -1,9 +1,10 @@
 ###Index
-* [Project Management](#project-management)
+* [Управление проектами](#управление проектами)
+* [Тестирование ПО](#тестирование по)
 
 
-####Project Management
+#### Управление проектами
 * [Черная книга менеджера](http://www.stratoplan.ru/free/mbb/) Слава Панкратов
 
-####Software testing theory
+#### Тестирование ПО
 * [Test-Driven Development in practice](https://github.com/risik/tdd-book) - Sergey Borisov
