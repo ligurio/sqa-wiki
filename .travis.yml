@@ -1,0 +1,15 @@
+language: python
+
+python:
+  - 2.7
+
+install:
+  - pip install requests markdown beautifulsoup4
+
+script:
+  - python check_urls.py free-software-testing-books-ru.md
+  - python check_urls.py free-software-testing-books.md
+
+notifications:
+  email:
+    - estetus+travis-ci@gmail.com
