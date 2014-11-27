@@ -24,7 +24,6 @@
 * [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
 * [Random testing book](https://github.com/regehr/random-testing-book) DRAFT
 * [Revolutionize Your QA](http://go.utest.com/revolutionize-your-qa-ebook.html) - Dr. James Whittaker
-* [Software testing](http://www.rmcet.com/lib/E-Books/Other/Software_Testing.pdf) (PDF)
 * [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
