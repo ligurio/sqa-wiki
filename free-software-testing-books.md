@@ -45,6 +45,7 @@
 
 ####Testing of Free and OpenSource Software
 * [Quality Improvement in Volunteer Free and Open Source Software Project](http://www.cyrius.com/publications/michlmayr-phd.pdf) (PDF)
+* [Testing and quality management of free and open source software](https://github.com/ligurio/tos-book) - Sergey Bronnikov
 
 
 ####Testing with different programming languages
