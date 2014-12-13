@@ -1,4 +1,4 @@
-## List of Free Learning Resources
+## List of Free Software Testing Books
 
 [![Build Status](https://travis-ci.org/ligurio/free-software-testing-books.svg)](https://travis-ci.org/ligurio/free-software-testing-books)
 
