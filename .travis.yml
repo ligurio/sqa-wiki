@@ -12,4 +12,7 @@ script:
 
 notifications:
   email:
-    - estetus+travis-ci@gmail.com
+    recipients:
+      - estetus+travis-ci@gmail.com
+    on_success: change
+    on_failure: always
