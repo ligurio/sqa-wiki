@@ -20,7 +20,7 @@
 * [Introduction to software testing](http://ebooks.allfree-stuff.com/eBooks_down/Software%20Testing/Introduction%20to%20Software%20Testing.pdf) (PDF)
 * [I am a bug!](http://www.amibug.com/iamabug/p01.html)
 * [Manual Testing Help](http://www.softwaretestinghelp.com/manual-testing-help-ebook-free-download/)
-* [Mobile Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) (PDF) - Ajay Balamurugadas
+* [Mobile Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) (PDF) - Ajay Balamurugadas, Sundaresan Krishnaswami
 * [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
 * [Random testing book](https://github.com/regehr/random-testing-book) DRAFT
 * [Revolutionize Your QA](http://go.utest.com/revolutionize-your-qa-ebook.html) - Dr. James Whittaker
