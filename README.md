@@ -7,7 +7,7 @@ Someone introduced a list of [free programming ebooks](https://github.com/vhf/fr
 I have decided to create similar list but for [software testing books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md).
 
 ### How To Contribute
-- [Edit](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md) and send pull request.
+- [Edit](https://github.com/ligurio/free-software-testing-books/edit/master/free-software-testing-books.md) the list and send pull request.
 
 ### License
 
