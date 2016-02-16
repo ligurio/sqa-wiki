@@ -57,6 +57,7 @@
 * [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript)
 * [Web Application Testing in Ruby](https://leanpub.com/watirbook/read) Željko Filipin
+* [AUnit Cookbook](http://docs.adacore.com/aunit-docs/aunit.html)
 
 
 #### Testing Tools
