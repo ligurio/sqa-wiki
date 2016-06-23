@@ -11,23 +11,19 @@
 * [A Software Testing Primer](http://www.nickjenkins.net/prose/testingPrimer.pdf) (PDF)
 * [A Software Testing Primer](http://www.softwaretestinghelp.com/software-testing-book-download/) - Nick Jenkins
 * [A Tutorial in Exploratory Testing](http://www.kaner.com/pdfs/QAIExploring.pdf) (PDF)
-* [Manager's Black Book](http://transition2pro.com/mbb/)
 * [Cartoon tester](http://cartoontester.blogspot.ru)
 * [Essential Acceptance Testing](https://leanpub.com/essential_acceptance_testing/c/HgPDBsxyYT6q)
 * [Embedded Software Testing Methods](https://www.theseus.fi/bitstream/handle/10024/46873/Lepisto_Juho.pdf?sequence=1) Juho Lepistö
 * [Foundations of Software Testing: Fundamental Algorithms and Techniques](http://my.safaribooksonline.com/book/software-engineering-and-development/software-testing/9788131707951) Aditya P. Mathur
-* [Guide to Advanced Software Testing] (PDF) Anne Mette, Jonassen Hass
 * [Introduction to software testing](http://ebooks.allfree-stuff.com/eBooks_down/Software%20Testing/Introduction%20to%20Software%20Testing.pdf) (PDF)
 * [I am a bug!](http://www.amibug.com/iamabug/p01.html)
 * [Manual Testing Help](http://www.softwaretestinghelp.com/manual-testing-help-ebook-free-download/)
 * [Mobile Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) (PDF) - Ajay Balamurugadas, Sundaresan Krishnaswami
 * [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
 * [Random testing book](https://github.com/regehr/random-testing-book) DRAFT
-* [Revolutionize Your QA](http://go.utest.com/revolutionize-your-qa-ebook.html) - Dr. James Whittaker
 * [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
-* [Software Testing and Internationalization](http://iclass.iuea.ac.ug/intranet/E-books/INFORMATION%20TECHNOLOGY/SOFTWARE%20ENGINEERING/Software_Testing_Internationalization.pdf) (PDF) Manfred Rätzmann, Clinton De Young
 * [The Littleblack Book On Test Design](http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) (PDF)
 * [The Essential Guide to Mobile App Testing](http://core.ecu.edu/STRG/materials/uTest_eBook_Mobile_Testing.pdf) (PDF)
 * [UI and UX Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/ui_and_ux_testing_ready_reckoner.pdf) (PDF) - Ajay Balamurugadas
@@ -57,13 +53,11 @@
 * [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript)
 * [Web Application Testing in Ruby](https://leanpub.com/watirbook/read) Željko Filipin
-* [AUnit Cookbook](http://docs.adacore.com/aunit-docs/aunit.html)
 
 
 #### Testing Tools
 * [AccelTest](http://www.lausd.net/istem/2know_files/Software_Manual.pdf) (PDF)
 * [A Step-by-Step Guide to Functional Testing with TestComplete](http://www2.smartbear.com/download-mqi-inbound-testcomplete-functional-testing-top-5-ebook-blog.html)
-* [Building and testing with Gradle](http://www.gradleware.com/registered-access?content=books%2Fbuilding-and-testing%2F)
 * [HP Quality Center Tutorial](http://www.tutorialspoint.com/qc/index.htm)
 * [HP QuickTest Professional Tutorial](http://www.tutorialspoint.com/qtp/index.htm)
 * [.NET Performance Testing and Optimization - The Complete Guide](http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip) (zip) -  RedGate, By Paul Glavich and Chris Farrell
