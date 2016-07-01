@@ -9,9 +9,8 @@
 #### Software testing theory
 * [Acceptance Test Engineering Guide, Vol. I - RC1](https://testingguidance.codeplex.com/)
 * [A Software Testing Primer](http://www.nickjenkins.net/prose/testingPrimer.pdf) (PDF)
-* [A Software Testing Primer](http://www.softwaretestinghelp.com/software-testing-book-download/) - Nick Jenkins
+* [Practical Software Testing](http://www.softwaretestinghelp.com/practical-software-testing-new-free-ebook-download/) - STH in association with Chindam Damodar
 * [A Tutorial in Exploratory Testing](http://www.kaner.com/pdfs/QAIExploring.pdf) (PDF)
-* [Cartoon tester](http://cartoontester.blogspot.ru)
 * [Essential Acceptance Testing](https://leanpub.com/essential_acceptance_testing/c/HgPDBsxyYT6q)
 * [Embedded Software Testing Methods](https://www.theseus.fi/bitstream/handle/10024/46873/Lepisto_Juho.pdf?sequence=1) Juho Lepistö
 * [Foundations of Software Testing: Fundamental Algorithms and Techniques](http://my.safaribooksonline.com/book/software-engineering-and-development/software-testing/9788131707951) Aditya P. Mathur
