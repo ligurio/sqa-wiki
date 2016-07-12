@@ -11,3 +11,4 @@
 * [Testing Podcast](http://testingpodcast.com/) (EN)
 * [TestCast](http://www.testcast.net/) (EN)
 * [CodingQA](http://codingqa.com/) (EN)
+* [The Ministry of Testing Podcast](https://dojo.ministryoftesting.com/series/podcast-series-ministry-of-testing) (EN)
