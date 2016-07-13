@@ -7,6 +7,7 @@
 
 
 #### Software testing theory
+* [Professianal Software Development](http://mixmastamyk.bitbucket.org/pro_soft_dev/) (Chapter: "5. Software Quality") - Mike G. Miller
 * [Acceptance Test Engineering Guide, Vol. I - RC1](https://testingguidance.codeplex.com/)
 * [A Software Testing Primer](http://www.nickjenkins.net/prose/testingPrimer.pdf) (PDF)
 * [Practical Software Testing](http://www.softwaretestinghelp.com/practical-software-testing-new-free-ebook-download/) - STH in association with Chindam Damodar
