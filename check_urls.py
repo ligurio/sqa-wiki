@@ -16,7 +16,7 @@ def retrieve_urls(filename):
     with open(filename) as fd:
         mdtext = fd.read()
         html_text = markdown.markdown(mdtext)
-        soup = BeautifulSoup.BeautifulSoup(html_text)
+        soup = BeautifulSoup.BeautifulSoup(html_text, "html.parser")
         return [a['href'] for a in soup.findAll('a')]
 
 def check_urls(filename):
