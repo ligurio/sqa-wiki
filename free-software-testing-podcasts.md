@@ -12,3 +12,4 @@
 * [TestCast](http://www.testcast.net/) (EN)
 * [CodingQA](http://codingqa.com/) (EN)
 * [The Ministry of Testing Podcast](https://dojo.ministryoftesting.com/series/podcast-series-ministry-of-testing) (EN)
+* [TDD in context](http://www.schmonz.com/tag/tdd-in-context/) (EN)
