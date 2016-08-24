@@ -5,7 +5,7 @@
 ### Intro
 
 There is a list of [free programming ebooks](https://github.com/vhf/free-programming-books).
-And I have decided to create a similar list but for [software testing books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md).
+And I have decided to create a similar list but for [software testing books](/free-software-testing-books.md). And now we have not only lists with books [in English](/free-software-testing-books.md) and [Russian](/free-software-testing-books-ru.md), but also [courses](/free-software-testing-courses.md) and [podcasts](/free-software-testing-podcasts.md).
 
 ### Quotes
 
