@@ -7,3 +7,4 @@
 * [Интуит - Верификация программного обеспечения](http://www.intuit.ru/studies/courses/1040/209/info)
 * [Интуит - Введение в технологию программирования](http://www.intuit.ru/studies/courses/2262/160/info)
 * [Mail.Ru - Основы тестирования программного обеспечения](http://universarium.org/course/526)
+* [Яндекс - Тестирование](https://academy.yandex.ru/events/testing/)
