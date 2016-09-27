@@ -26,7 +26,7 @@
 * [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
 * [Random testing book](https://github.com/regehr/random-testing-book) DRAFT
 * [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon
-* [Common System and Software Testing Pitfalls] - Donald G. Firesmith
+* [Common System and Software Testing Pitfalls](https://www.infoq.com/resource/articles/common-testing-pitfalls/en/resources/Common-System-and-Software-Testing-Pitfalls-excerpt.pdf) - Donald G. Firesmith
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
 * [The Littleblack Book On Test Design](http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) (PDF)
