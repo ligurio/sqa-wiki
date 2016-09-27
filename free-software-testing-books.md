@@ -29,6 +29,7 @@
 * [Common System and Software Testing Pitfalls](https://www.infoq.com/resource/articles/common-testing-pitfalls/en/resources/Common-System-and-Software-Testing-Pitfalls-excerpt.pdf) - Donald G. Firesmith
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
+* [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf)
 * [The Littleblack Book On Test Design](http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) (PDF)
 * [The Essential Guide to Mobile App Testing](http://core.ecu.edu/STRG/materials/uTest_eBook_Mobile_Testing.pdf) (PDF)
 * [UI and UX Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/ui_and_ux_testing_ready_reckoner.pdf) (PDF) - Ajay Balamurugadas
