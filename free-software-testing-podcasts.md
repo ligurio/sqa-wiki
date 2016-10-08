@@ -1,15 +1,20 @@
-#### Software Testing podcasts
+## Software Testing podcasts
 
-* [Radio QA](http://radio-qa.com/) (RU)
-* [Python Testing](http://pythontesting.net/) (EN)
-* [AB Testing](http://www.angryweasel.com/ABTesting/) (EN)
-* [Test Talks](https://joecolantonio.com/testtalks/) (EN)
-* [Testing Bias](http://www.testingbias.com/) (EN)
-* [The Testing Show](http://thetestingshow.libsyn.com/podcast) (EN)
-* [Let's Talk About Tests](http://letstalkabouttests.xyz/) (EN)
-* [Testing In The Pub](http://testinginthepub.co.uk/testinginthepub/) (EN)
-* [Testing Podcast](http://testingpodcast.com/) (EN)
-* [TestCast](http://www.testcast.net/) (EN)
-* [CodingQA](http://codingqa.com/) (EN)
-* [The Ministry of Testing Podcast](https://dojo.ministryoftesting.com/series/podcast-series-ministry-of-testing) (EN)
-* [TDD in context](http://www.schmonz.com/tag/tdd-in-context/) (EN)
+#### Russian
+
+* [Radio QA](http://radio-qa.com/)
+
+#### English
+
+* [Python Testing](http://pythontesting.net/)
+* [AB Testing](http://www.angryweasel.com/ABTesting/)
+* [Test Talks](https://joecolantonio.com/testtalks/)
+* [Testing Bias](http://www.testingbias.com/)
+* [The Testing Show](http://thetestingshow.libsyn.com/podcast)
+* [Let's Talk About Tests](http://letstalkabouttests.xyz/)
+* [Testing In The Pub](http://testinginthepub.co.uk/testinginthepub/)
+* [Testing Podcast](http://testingpodcast.com/)
+* [TestCast](http://www.testcast.net/)
+* [CodingQA](http://codingqa.com/)
+* [The Ministry of Testing Podcast](https://dojo.ministryoftesting.com/series/podcast-series-ministry-of-testing)
+* [TDD in context](http://www.schmonz.com/tag/tdd-in-context/)
