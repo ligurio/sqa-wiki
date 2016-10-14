@@ -10,9 +10,10 @@
 * [Яндекс - Школа тестирования баннерной системы](https://academy.yandex.ru/events/testing/msk-2014/)
 * [QA Academy](https://github.com/TelerikAcademy/QA-Academy)
 * [QA and Automation course](https://github.com/HackBulgaria/QA-and-Automation-101)
-* СПбГПУ (Марат Ахин)
+* СПбГПУ
   * [Курс "Методы анализа и обеспечения качества ПО"](http://kspt.icc.spbstu.ru/course/QA)
   * [Курс "Тестирование ПО"](http://kspt.icc.spbstu.ru/2014/course/software-testing)
   * Software Testing 101 ([на английском](http://kspt.ftk.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-101.pdf), [на русском](http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-101-ru.pdf))
   * [Software Testing 102](http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-102v2.pdf)
   * [Software Testing 103](http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-102v3.pdf)
+  * [Курс «Формальные методы обеспечения качества ПО»](http://kspt.icc.spbstu.ru/2010/course/quality)
