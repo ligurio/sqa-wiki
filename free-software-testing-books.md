@@ -14,6 +14,7 @@
 * [Professianal Software Development](http://mixmastamyk.bitbucket.org/pro_soft_dev/) (Chapter: "5. Software Quality") - Mike G. Miller
 * [Acceptance Test Engineering Guide, Vol. I - RC1](https://testingguidance.codeplex.com/)
 * [A Software Testing Primer](http://www.nickjenkins.net/prose/testingPrimer.pdf) (PDF)
+* [Classic Testing Mistakes](http://www.exampler.com/testing-com/writings/classic/mistakes.pdf) (PDF) - Brian Marick
 * [Practical Software Testing](http://www.softwaretestinghelp.com/practical-software-testing-new-free-ebook-download/) - STH in association with Chindam Damodar
 * [A Tutorial in Exploratory Testing](http://www.kaner.com/pdfs/QAIExploring.pdf) (PDF)
 * [Essential Acceptance Testing](https://leanpub.com/essential_acceptance_testing/c/HgPDBsxyYT6q)
