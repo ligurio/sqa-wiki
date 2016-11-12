@@ -23,4 +23,4 @@
   * [Software Testing 102](http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-102v2.pdf)
   * [Software Testing 103](http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-102v3.pdf)
   * [Курс «Формальные методы обеспечения качества ПО»](http://kspt.icc.spbstu.ru/2010/course/quality)
-* Тестирование на основе моделей [Лекция 1](https://www.youtube.com/watch?v=KqVN_nQBjBw), [Лекция 2](https://www.youtube.com/watch?v=d_bjzXRyHAA), [Лекция 3](https://www.youtube.com/watch?v=kMJyfyU1fQ8)
+* [Лекториум - Тестирование на основе моделей](https://www.lektorium.tv/course/22774)
