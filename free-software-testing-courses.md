@@ -26,3 +26,4 @@
 * [Лекториум - Тестирование на основе моделей](https://www.lektorium.tv/course/22774)
 * [Лекториум - Unit-тестирование и метрики покрытия кода тестами](https://www.lektorium.tv/lecture/13635)
 * [CSC - Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/) [Слайды](http://compsciclub.ru/media/slides/modelbasedtesting_2010_spring/2010_04_25_modelbasedtesting_2010_spring_m98ClS2.pdf)
+* [CSC - Основы программной инженерии](https://compscicenter.ru/courses/seintro/2012-spring/)
