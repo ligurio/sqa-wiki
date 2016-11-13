@@ -5,3 +5,4 @@
 * [International Conference on Tests & Proofs](http://www.tap2011.informatik.uni-bremen.de/index.html)
 * [International Conference On Quality Software](http://antares.sip.ucm.es/qsic2011/index.php)
 * [International Computer Science Symposium in Russia]
+* http://www.wikicfp.com/cfp/call?conference=software%20testing
