@@ -4,7 +4,7 @@
 * [QA and Automation course](https://github.com/HackBulgaria/QA-and-Automation-101)
 * [Udacity - Software Testing Methods](https://www.udacity.com/course/software-testing--cs258)
 * [Udacity - Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
-
+* [Software Testing](http://compsciclub.ru/courses/softwaretesting/2008-spring/)
 
 ## In Russian
 
@@ -25,4 +25,4 @@
   * [Курс «Формальные методы обеспечения качества ПО»](http://kspt.icc.spbstu.ru/2010/course/quality)
 * [Лекториум - Тестирование на основе моделей](https://www.lektorium.tv/course/22774)
 * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
-* [Software Testing](http://compsciclub.ru/courses/softwaretesting/2008-spring/)
+* [Unit-тестирование и метрики покрытия кода тестами](https://www.lektorium.tv/lecture/13635)
