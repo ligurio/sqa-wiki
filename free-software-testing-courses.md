@@ -24,5 +24,5 @@
   * [Software Testing 103](http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-102v3.pdf)
   * [Курс «Формальные методы обеспечения качества ПО»](http://kspt.icc.spbstu.ru/2010/course/quality)
 * [Лекториум - Тестирование на основе моделей](https://www.lektorium.tv/course/22774)
-* [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
-* [Unit-тестирование и метрики покрытия кода тестами](https://www.lektorium.tv/lecture/13635)
+* [Лекториум - Unit-тестирование и метрики покрытия кода тестами](https://www.lektorium.tv/lecture/13635)
+* [CSC - Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
