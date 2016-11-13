@@ -9,4 +9,4 @@
 * Как стать менеджером ([pdf](http://labs.stratoplan.ru/wmbook-03-01/it_manager.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/it_manager.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/it_manager.mobi))
 
 #### Тестирование ПО
-* [Test-Driven Development in practice](https://github.com/risik/tdd-book) - Sergey Borisov
+* [Test-Driven Development in Practice](https://github.com/risik/tdd-book) - Sergey Borisov
