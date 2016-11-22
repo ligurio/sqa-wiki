@@ -5,6 +5,7 @@
 * [Udacity - Software Testing Methods](https://www.udacity.com/course/software-testing--cs258)
 * [Udacity - Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 * [Software Testing](http://compsciclub.ru/courses/softwaretesting/2008-spring/)
+* [Coursera - Software security](https://ru.coursera.org/learn/software-security)
 
 ## In Russian
 
