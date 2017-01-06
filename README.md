@@ -9,10 +9,12 @@ And I have decided to create a similar list but for [software testing books](/fr
 
 ### Quotes
 
-Alexander Todorov (Open source QA, Senior QA engineer at Red Hat):
+- Alexander Todorov (Open source QA, Senior QA engineer at Red Hat):
 
 > There's [a huge list of free books on the topic of software testing](http://atodorov.org/blog/2015/05/20/free-software-testing-books/).
 > This will definitely be my summer reading list. I hope you find it helpful.
+
+- Типичный программист: [Всё о QA: 83 бесплатных материала по грамотному тестированию](https://tproger.ru/digest/free-software-testing-books/)
 
 ### License
 
