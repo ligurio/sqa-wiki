@@ -6,3 +6,4 @@
 * [International Conference On Quality Software](http://antares.sip.ucm.es/qsic2011/index.php)
 * http://www.wikicfp.com/cfp/call?conference=software%20testing
 * [European Testing Conference](http://europeantestingconference.eu/)
+* [Software Testing Conferences](http://testingconferences.org/)
