@@ -68,6 +68,7 @@
 
 #### Testing Tools
 
+* [The Evolving Art of Fuzzing](http://www.vdalabs.com/tools/The_Evolving_Art_of_Fuzzing.pdf) (PDF) - Jared DeMott
 * [AccelTest](http://www.lausd.net/istem/2know_files/Software_Manual.pdf) (PDF)
 * [A Step-by-Step Guide to Functional Testing with TestComplete](http://www2.smartbear.com/download-mqi-inbound-testcomplete-functional-testing-top-5-ebook-blog.html)
 * [HP Quality Center Tutorial](http://www.tutorialspoint.com/qc/index.htm)
