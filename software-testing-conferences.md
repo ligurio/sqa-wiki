@@ -7,3 +7,4 @@
 * http://www.wikicfp.com/cfp/call?conference=software%20testing
 * [European Testing Conference](http://europeantestingconference.eu/)
 * [Software Testing Conferences](http://testingconferences.org/)
+* [International Symposium on Software Testing and Analysis](http://conf.researchr.org/home/issta-2017)
