@@ -39,6 +39,7 @@
 * [What If: 50+ tips to win testing contests](http://enjoytesting.files.wordpress.com/2013/10/50tipstowintestingcontests.pdf) (PDF) - Ajay Balamurugadas
 * [What If: 50+ tips to boost your productivity](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf) (PDF) - Ajay Balamurugadas
 * [What If: 50+ tips to improve tester-programmer relationship](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-improve-tester-programmer-relationship.pdf) (PDF) - Ajay Balamurugadas
+* [Handbook of Software Reliability Engineering](http://www.cse.cuhk.edu.hk/~lyu/book/reliability/)
 
 
 #### Standards in software testing
@@ -46,7 +47,7 @@
 * [Testing Standards Working Party](http://www.testingstandards.co.uk/)
 * [The International Software Testing Standard](http://softwaretestingstandard.org/)
 * [Standard for Software Component Testing](http://www.testingstandards.co.uk/Component%20Testing.pdf) (PDF)
-
+* [Everything You Need to Know About Software Test Formats](https://gist.github.com/ligurio/6efa8576e175fa0fb5d04cfe5c85a2a5) (in Russian)
 
 #### Testing of Free and OpenSource Software
 
