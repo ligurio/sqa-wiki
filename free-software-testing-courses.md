@@ -6,6 +6,7 @@
 * [Udacity - Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 * [Software Testing](http://compsciclub.ru/courses/softwaretesting/2008-spring/)
 * [Coursera - Software security](https://ru.coursera.org/learn/software-security)
+* [Introduction to User Testing](https://ru.coursera.org/learn/ui-testing/lecture/aal6p/introduction-to-user-testing)
 
 ## In Russian
 
