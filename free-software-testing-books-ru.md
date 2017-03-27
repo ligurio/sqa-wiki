@@ -1,7 +1,7 @@
-###Index
-* [Управление проектами](#управление проектами)
-* [Тестирование ПО](#тестирование по)
+### Index
 
+* [Управление проектами](#управление-проектами)
+* [Тестирование ПО](#тестирование-по)
 
 #### Управление проектами
 * [Черная книга менеджера](http://www.stratoplan.ru/free/mbb/) ([pdf](http://labs.stratoplan.ru/wmbook-03-01/black_book.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/black_book.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/black_book.mobi)) Слава Панкратов
