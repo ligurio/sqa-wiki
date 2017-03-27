@@ -8,6 +8,7 @@
 * Coursera:
   * [Безопасность программного обеспечения](https://ru.coursera.org/learn/software-security)
   * [Introduction to User Testing](https://ru.coursera.org/learn/ui-testing/lecture/aal6p/introduction-to-user-testing)
+* [Lectures on the Curry-Howard Isomorphism](http://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf)
 
 ## In Russian
 
