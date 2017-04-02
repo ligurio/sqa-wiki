@@ -9,6 +9,7 @@
 
 #### Software testing theory
 
+* [Software testing](http://www.rehancodes.com/files/ron-patton-software-testing-1st-edition.pdf) - Ron Patton
 * [Measure Software Quality using Application Security](https://github.com/DinisCruz/Book_Software_Quality/tree/master/content) (WIP) - Dinis Cruz
 * [The "A" Word](https://leanpub.com/TheAWord) - Alan Page
 * [Professianal Software Development](http://mixmastamyk.bitbucket.org/pro_soft_dev/) (Chapter: "5. Software Quality") - Mike G. Miller
