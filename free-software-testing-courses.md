@@ -8,7 +8,16 @@
 * Coursera:
   * [Безопасность программного обеспечения](https://ru.coursera.org/learn/software-security)
   * [Introduction to User Testing](https://ru.coursera.org/learn/ui-testing/lecture/aal6p/introduction-to-user-testing)
-* [Lectures on the Curry-Howard Isomorphism](http://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf)
+* Formal verification
+  * [Interactive Computer Theorem Proving](http://adam.chlipala.net/itp/)
+  * [A survey of automated theorem proving](http://compsciclub.ru/en/courses/theoremproving/2013-autumn/)
+  * [Advanced Topics in Software Verification]
+  * [IMC010: Type Theory and Coq](http://www.cs.ru.nl/~freek/courses/tt-2011/)
+  * [Logical Verification 2016–2017](http://www.cs.vu.nl//~jbe248/lv2017/)
+  * [Tutorials and advanced lectures](http://www.cse.chalmers.se/research/group/logic/Types/tutorials.html) by [Types Project](http://www.cse.chalmers.se/research/group/logic/Types/index.html)
+  * [Modelling and verifying algorithms in Coq: an introduction](https://www.di.ens.fr/~zappa/teaching/coq/ecole10/)
+  * [Coq in a Hurry](https://cel.archives-ouvertes.fr/file/index/docid/72365/filename/coq-hurry.pdf)
+  * ...and [more](https://coq.inria.fr/cocorico/CoqInTheClassroom)
 
 ## In Russian
 
