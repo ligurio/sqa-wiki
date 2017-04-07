@@ -17,6 +17,7 @@
   * [Tutorials and advanced lectures](http://www.cse.chalmers.se/research/group/logic/Types/tutorials.html) by [Types Project](http://www.cse.chalmers.se/research/group/logic/Types/index.html)
   * [Modelling and verifying algorithms in Coq: an introduction](https://www.di.ens.fr/~zappa/teaching/coq/ecole10/)
   * [Coq in a Hurry](https://cel.archives-ouvertes.fr/file/index/docid/72365/filename/coq-hurry.pdf)
+  * Theorem Proving - Principles, Techniques, Applications [1](https://www.cse.unsw.edu.au/~cs4161/16s2/), [2](https://www.cse.unsw.edu.au/~kleing/teaching/thprv-04/index.html)
   * ...and [more](https://coq.inria.fr/cocorico/CoqInTheClassroom)
 
 ## In Russian
