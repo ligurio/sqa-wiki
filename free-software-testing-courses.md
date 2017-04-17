@@ -18,6 +18,7 @@
   * [Modelling and verifying algorithms in Coq: an introduction](https://www.di.ens.fr/~zappa/teaching/coq/ecole10/)
   * [Coq in a Hurry](https://cel.archives-ouvertes.fr/file/index/docid/72365/filename/coq-hurry.pdf)
   * Theorem Proving - Principles, Techniques, Applications [1](https://www.cse.unsw.edu.au/~cs4161/16s2/), [2](https://www.cse.unsw.edu.au/~kleing/teaching/thprv-04/index.html)
+  * [Formal Specification (F28FS)](http://www.macs.hw.ac.uk/~gabbay/F28FS/)
   * ...and [more](https://coq.inria.fr/cocorico/CoqInTheClassroom)
 
 ## In Russian
