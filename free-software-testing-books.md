@@ -71,6 +71,7 @@
 
 #### Testing Tools
 
+* Software Foundations - Benjamin C. Pierce Chris Casinghino Marco Gaboardi Michael Greenberg Cătălin Hriţcu Vilhelm Sjöberg Brent Yorgey ([HTML](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html), [epub](https://github.com/carliros/software-foundations-book))
 * [The Evolving Art of Fuzzing](http://www.vdalabs.com/tools/The_Evolving_Art_of_Fuzzing.pdf) (PDF) - Jared DeMott
 * [AccelTest](http://www.lausd.net/istem/2know_files/Software_Manual.pdf) (PDF)
 * [A Step-by-Step Guide to Functional Testing with TestComplete](http://www2.smartbear.com/download-mqi-inbound-testcomplete-functional-testing-top-5-ebook-blog.html)
