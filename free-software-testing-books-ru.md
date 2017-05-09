@@ -11,3 +11,4 @@
 
 #### Тестирование ПО
 * [Test-Driven Development in Practice](https://github.com/risik/tdd-book) - Sergey Borisov
+* [Тестирование программного обеспечения. Базовый курс.](http://svyatoslav.biz/software_testing_book/) - Куликов Святослав
