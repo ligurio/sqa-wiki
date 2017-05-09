@@ -11,7 +11,6 @@
 * Formal verification
   * [Interactive Computer Theorem Proving](http://adam.chlipala.net/itp/)
   * [A survey of automated theorem proving](http://compsciclub.ru/en/courses/theoremproving/2013-autumn/)
-  * [Advanced Topics in Software Verification]
   * [IMC010: Type Theory and Coq](http://www.cs.ru.nl/~freek/courses/tt-2011/)
   * [Logical Verification 2016–2017](http://www.cs.vu.nl//~jbe248/lv2017/)
   * [Tutorials and advanced lectures](http://www.cse.chalmers.se/research/group/logic/Types/tutorials.html) by [Types Project](http://www.cse.chalmers.se/research/group/logic/Types/index.html)
@@ -43,3 +42,5 @@
 * [Лекториум - Unit-тестирование и метрики покрытия кода тестами](https://www.lektorium.tv/lecture/13635)
 * [CSC - Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/) [Слайды](http://compsciclub.ru/media/slides/modelbasedtesting_2010_spring/2010_04_25_modelbasedtesting_2010_spring_m98ClS2.pdf)
 * [CSC - Основы программной инженерии](https://compscicenter.ru/courses/seintro/2012-spring/)
+* Курс лекций "Формальная спецификация и верификация программ" - Хорошилов Алексей Владимирович
+* [Тестирование на основе моделей](http://panda.ispras.ru/~kuliamin/mbt-course.html)
