@@ -5,7 +5,12 @@
 * [Udacity - Software Testing Methods](https://www.udacity.com/course/software-testing--cs258)
 * [Udacity - Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 * [Software Testing](http://compsciclub.ru/courses/softwaretesting/2008-spring/)
-* [Software Testing - Condition Coverage and Mutation Testing Strategies](https://alison.com/course/software-testing-condition-coverage-and-mutation-testing-strategies)
+* Alison:
+  * [Introduction to Software Testing](https://alison.com/course/introduction-to-software-testing)
+  * [Software Testing - Black-box Strategies and White-box Testing](https://alison.com/course/software-testing-black-box-strategies-and-white-box-testing)
+  * [Diploma in Software Testing](https://alison.com/course/diploma-in-software-testing)
+  * [Software Testing - Testing Levels and Object-Oriented Program Testing](https://alison.com/course/software-testing-testing-levels-and-object-oriented-program-testing)
+  * [Software Testing - Condition Coverage and Mutation Testing Strategies](https://alison.com/course/software-testing-condition-coverage-and-mutation-testing-strategies)
 * Coursera:
   * [Безопасность программного обеспечения](https://ru.coursera.org/learn/software-security)
   * [Introduction to User Testing](https://ru.coursera.org/learn/ui-testing/lecture/aal6p/introduction-to-user-testing)
