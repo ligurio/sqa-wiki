@@ -2,8 +2,9 @@
 
 * [QA Academy](https://github.com/TelerikAcademy/QA-Academy)
 * [QA and Automation course](https://github.com/HackBulgaria/QA-and-Automation-101)
-* [Udacity - Software Testing Methods](https://www.udacity.com/course/software-testing--cs258)
-* [Udacity - Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+* Udacity:
+  * [Software Testing Methods](https://www.udacity.com/course/software-testing--cs258)
+  * [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 * [Software Testing](http://compsciclub.ru/courses/softwaretesting/2008-spring/)
 * Alison:
   * [Introduction to Software Testing](https://alison.com/course/introduction-to-software-testing)
@@ -25,6 +26,8 @@
   * Theorem Proving - Principles, Techniques, Applications [1](https://www.cse.unsw.edu.au/~cs4161/16s2/), [2](https://www.cse.unsw.edu.au/~kleing/teaching/thprv-04/index.html)
   * [Formal Specification (F28FS)](http://www.macs.hw.ac.uk/~gabbay/F28FS/)
   * [Formal Reasoning About Programs](https://frap.csail.mit.edu/main)
+  * [An Introduction to the Coq Proof Assistant](https://www.cis.upenn.edu/~rrand/cufp_2015/)
+  * [Programs and Proofs in the Coq Proof Assistant](https://www.cis.upenn.edu/~rrand/popl_2016/)
   * ...and [more](https://coq.inria.fr/cocorico/CoqInTheClassroom)
 
 ## In Russian
