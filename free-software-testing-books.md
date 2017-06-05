@@ -5,7 +5,7 @@
 * [Testing of Free and OpenSource Software](#testing-of-free-and-opensource-software)
 * [Testing with different programming languages](#testing-with-different-programming-languages)
 * [Testing Tools](#testing-tools)
-* [Software verification](#Software verification)
+* [Software verification](#software-verification)
 
 #### Software testing theory
 
