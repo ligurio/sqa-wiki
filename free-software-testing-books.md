@@ -5,7 +5,7 @@
 * [Testing of Free and OpenSource Software](#testing-of-free-and-opensource-software)
 * [Testing with different programming languages](#testing-with-different-programming-languages)
 * [Testing Tools](#testing-tools)
-
+* [Verification](#Verification)
 
 #### Software testing theory
 
@@ -42,7 +42,6 @@
 * [What If: 50+ tips to boost your productivity](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf) (PDF) - Ajay Balamurugadas
 * [What If: 50+ tips to improve tester-programmer relationship](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-improve-tester-programmer-relationship.pdf) (PDF) - Ajay Balamurugadas
 * [Handbook of Software Reliability Engineering](http://www.cse.cuhk.edu.hk/~lyu/book/reliability/)
-* Software Foundations: [4.0](https://www.cis.upenn.edu/~bcpierce/sf/sf-4.0/), [current](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html)
 
 #### Standards in software testing
 
@@ -83,3 +82,9 @@
 * [SoapUI 101: Beginner's Guide to Functional Testing](http://www2.smartbear.com/download-mqi-nbound-soapui-top-5-blast-ebook-blog.html)
 * [TestNG Tutorial](http://www.tutorialspoint.com/testng/index.htm)
 * [JUnit Tutorial](http://www.tutorialspoint.com/junit/index.htm)
+
+
+#### Verification
+
+* [Specifying Systems](https://www.microsoft.com/en-us/research/publication/specifying-systems-the-tla-language-and-tools-for-hardware-and-software-engineers/#) Leslie Lamport
+* Software Foundations: [4.0](https://www.cis.upenn.edu/~bcpierce/sf/sf-4.0/), [current](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html)
