@@ -5,7 +5,7 @@
 * [Testing of Free and OpenSource Software](#testing-of-free-and-opensource-software)
 * [Testing with different programming languages](#testing-with-different-programming-languages)
 * [Testing Tools](#testing-tools)
-* [Verification](#Verification)
+* [Software verification](#Software verification)
 
 #### Software testing theory
 
@@ -84,7 +84,7 @@
 * [JUnit Tutorial](http://www.tutorialspoint.com/junit/index.htm)
 
 
-#### Verification
+#### Software verification
 
 * [Specifying Systems](http://lamport.azurewebsites.net/tla/book.html) - Leslie Lamport
 * Software Foundations ([4.0](https://www.cis.upenn.edu/~bcpierce/sf/sf-4.0/), [current](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html)) - Benjamin C. Pierce & Co 
