@@ -87,4 +87,5 @@
 #### Software verification
 
 * [Specifying Systems](http://lamport.azurewebsites.net/tla/book.html) - Leslie Lamport
-* Software Foundations ([4.0](https://www.cis.upenn.edu/~bcpierce/sf/sf-4.0/), [current](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html)) - Benjamin C. Pierce & Co 
+* Software Foundations ([4.0](https://www.cis.upenn.edu/~bcpierce/sf/sf-4.0/), [current](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html)) - Benjamin C. Pierce & Co
+* [Books and papers about TLA+ and formal verification by Leslie Lamport](https://www.microsoft.com/en-us/research/people/lamport/#)
