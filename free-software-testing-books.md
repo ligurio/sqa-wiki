@@ -90,3 +90,4 @@
 * Software Foundations ([4.0](https://www.cis.upenn.edu/~bcpierce/sf/sf-4.0/), [current](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html)) - Benjamin C. Pierce & Co
 * [Books and papers about TLA+ and formal verification by Leslie Lamport](https://www.microsoft.com/en-us/research/people/lamport/#)
 * [Programs and Proofs](http://ilyasergey.net/pnp/) - Ilya Sergey
+* [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/) - Adam Chlipala
