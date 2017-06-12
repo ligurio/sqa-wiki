@@ -29,6 +29,7 @@
   * [An Introduction to the Coq Proof Assistant](https://www.cis.upenn.edu/~rrand/cufp_2015/)
   * [Programs and Proofs in the Coq Proof Assistant](https://www.cis.upenn.edu/~rrand/popl_2016/)
   * ...and [more](https://coq.inria.fr/cocorico/CoqInTheClassroom)
+  * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
 
 ## In Russian
 
