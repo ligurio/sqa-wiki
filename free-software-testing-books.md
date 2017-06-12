@@ -91,3 +91,4 @@
 * [Books and papers about TLA+ and formal verification by Leslie Lamport](https://www.microsoft.com/en-us/research/people/lamport/#)
 * [Programs and Proofs](http://ilyasergey.net/pnp/) - Ilya Sergey
 * [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/) - Adam Chlipala
+* [Verified Functional Algorithms](http://www.cs.princeton.edu/~appel/vfa/) -  Andrew W. Appel
