@@ -13,7 +13,7 @@
   * [Software Testing - Testing Levels and Object-Oriented Program Testing](https://alison.com/course/software-testing-testing-levels-and-object-oriented-program-testing)
   * [Software Testing - Condition Coverage and Mutation Testing Strategies](https://alison.com/course/software-testing-condition-coverage-and-mutation-testing-strategies)
 * Coursera:
-  * [Безопасность программного обеспечения](https://ru.coursera.org/learn/software-security)
+  * [Software security](https://ru.coursera.org/learn/software-security)
   * [Introduction to User Testing](https://ru.coursera.org/learn/ui-testing/lecture/aal6p/introduction-to-user-testing)
 * Formal verification
   * [Interactive Computer Theorem Proving](http://adam.chlipala.net/itp/)
