@@ -84,9 +84,10 @@
 * [JUnit Tutorial](http://www.tutorialspoint.com/junit/index.htm)
 
 
-#### Software verification
+#### Formal verification
 
 * [Specifying Systems](http://lamport.azurewebsites.net/tla/book.html) - Leslie Lamport
+* [The TLA+ Hyperbook](http://lamport.azurewebsites.net/tla/hyperbook.html) - Leslie Lamport
 * Software Foundations ([4.0](https://www.cis.upenn.edu/~bcpierce/sf/sf-4.0/), [current](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html)) - Benjamin C. Pierce & Co
 * [Books and papers about TLA+ and formal verification by Leslie Lamport](https://www.microsoft.com/en-us/research/people/lamport/#)
 * [Programs and Proofs](http://ilyasergey.net/pnp/) - Ilya Sergey
