@@ -33,7 +33,7 @@
 
 ## In Russian
 
-* [Основы тестирования ПО](https://itvdn.com/ru/video/testing-process)
+* TVDN (IT Video Developers Network) - [Основы тестирования ПО](https://itvdn.com/ru/video/testing-process)
 * Интуит
   * [ - Основы тестирования программного обеспечения](http://www.intuit.ru/studies/courses/48/48/info)
   * [Интуит - Введение в программную инженерию](http://www.intuit.ru/studies/courses/497/353/info)
