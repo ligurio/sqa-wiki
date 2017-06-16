@@ -1,5 +1,11 @@
 ## In English
 
+* edX
+  * [Software Testing Fundamentals](https://www.edx.org/course/software-testing-fundamentals-usmx-university-maryland-university-stv1-1x)
+  * [Software Testing Management](https://www.edx.org/course/software-testing-management-usmx-university-maryland-university-stv1-2x)
+  * [Formal Software Verification](https://www.edx.org/course/formal-software-verification-usmx-university-maryland-university-stv1-3x)
+  * [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+  * [Software Testing and Verification](https://www.edx.org/micromasters/software-testing-verification)
 * [QA Academy](https://github.com/TelerikAcademy/QA-Academy)
 * [QA and Automation course](https://github.com/HackBulgaria/QA-and-Automation-101)
 * Udacity:
