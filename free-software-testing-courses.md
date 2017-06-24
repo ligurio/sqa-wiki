@@ -39,7 +39,7 @@
 
 ## In Russian
 
-* TVDN (IT Video Developers Network) - [Основы тестирования ПО](https://itvdn.com/ru/video/testing-process)
+* ITVDN (IT Video Developers Network) - [Основы тестирования ПО](https://itvdn.com/ru/video/testing-process)
 * Интуит
   * [Основы тестирования программного обеспечения](http://www.intuit.ru/studies/courses/48/48/info)
   * [Введение в программную инженерию](http://www.intuit.ru/studies/courses/497/353/info)
@@ -60,7 +60,7 @@
 * Лекториум
   * [Тестирование на основе моделей](https://www.lektorium.tv/course/22774) ([слайды](http://panda.ispras.ru/~kuliamin/mbt-course.html))
   * [Верификация параллельных и распределенных программных систем](https://www.lektorium.tv/course/22862?id=22862) ([PDF](http://is.ifmo.ru/present/2012/20120218_model_che%D1%81king_karpov_lecture01.pdf))
-  * [Unit-тестирование и метрики покрытия кода тестами](https://www.lektorium.tv/lecture/13635)
+  * [Юнит-тестирование и метрики покрытия кода тестами](https://www.lektorium.tv/lecture/13635)
 * compsciclub
-  * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/) [Слайды](http://compsciclub.ru/media/slides/modelbasedtesting_2010_spring/2010_04_25_modelbasedtesting_2010_spring_m98ClS2.pdf)
+  * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/) ([слайды](http://compsciclub.ru/media/slides/modelbasedtesting_2010_spring/2010_04_25_modelbasedtesting_2010_spring_m98ClS2.pdf))
   * [Основы программной инженерии](https://compscicenter.ru/courses/seintro/2012-spring/)
