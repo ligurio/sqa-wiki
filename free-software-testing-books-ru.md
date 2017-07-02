@@ -14,3 +14,4 @@
 * [Test-Driven Development in Practice](https://github.com/risik/tdd-book) - Сергей Борисов
 * [Тестирование программного обеспечения. Базовый курс.](http://svyatoslav.biz/software_testing_book/) - Святослав Куликов
 * [Всё, что вам нужно знать о форматах отчётов в тестировании ПО](https://gist.github.com/ligurio/6efa8576e175fa0fb5d04cfe5c85a2a5) - Сергей Бронников
+* [Руководство по тестированию пользовательского опыта для сайтов, мобильных приложений и прототипов](https://uxcrowd.ru/file/guide.pdf)
