@@ -21,6 +21,11 @@
 * Coursera:
   * [Software security](https://ru.coursera.org/learn/software-security)
   * [Introduction to User Testing](https://ru.coursera.org/learn/ui-testing/lecture/aal6p/introduction-to-user-testing)
+* Guru99:
+  * [Software Testing Training](https://www.youtube.com/playlist?list=PLDC2A0C8D2EC934C7)
+  * [Quality Center Training](https://www.youtube.com/playlist?list=PL2CA3A709452D4E27)
+  * [LoadRunner Tutorials](https://www.youtube.com/playlist?list=PLFB7DB42D42A7C31C)
+  * [QTP Training](https://www.youtube.com/playlist?list=PLF20D996D82993E79)
 * Formal verification
   * [Interactive Computer Theorem Proving](http://adam.chlipala.net/itp/)
   * [A survey of automated theorem proving](http://compsciclub.ru/en/courses/theoremproving/2013-autumn/)
