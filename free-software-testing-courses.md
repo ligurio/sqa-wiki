@@ -11,7 +11,6 @@
 * Udacity:
   * [Software Testing Methods](https://www.udacity.com/course/software-testing--cs258)
   * [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
-* [Software Testing](http://compsciclub.ru/courses/softwaretesting/2008-spring/)
 * Alison:
   * [Introduction to Software Testing](https://alison.com/course/introduction-to-software-testing)
   * [Software Testing - Black-box Strategies and White-box Testing](https://alison.com/course/software-testing-black-box-strategies-and-white-box-testing)
@@ -69,3 +68,4 @@
 * compsciclub
   * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/) ([слайды](http://compsciclub.ru/media/slides/modelbasedtesting_2010_spring/2010_04_25_modelbasedtesting_2010_spring_m98ClS2.pdf))
   * [Основы программной инженерии](https://compscicenter.ru/courses/seintro/2012-spring/)
+  * [Software Testing](http://compsciclub.ru/courses/softwaretesting/2008-spring/)
