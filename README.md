@@ -16,9 +16,12 @@ And I have decided to create a similar list but for [software testing books](/fr
 > There's [a huge list of free books on the topic of software testing](http://atodorov.org/blog/2015/05/20/free-software-testing-books/).
 > This will definitely be my summer reading list. I hope you find it helpful.
 
-- [Типичный программист](https://tproger.ru/digest/free-software-testing-books/)
-
+- [Cambridge University](https://www.cambridge.org/core/journals/powder-diffraction/article/why-scientists-should-learn-to-program-in-python/EB88FFCC7384998768AFDAE219EF6EFA/core-reader)
 - [Stack Exchange](https://sqa.stackexchange.com/posts/22640/revisions)
+- [UTest](https://www.utest.com/status/11754):
+
+> Just found this gold and feel like I have to share it with the best testing community: Free Books about Software Testing!
+
 
 ### License
 
