@@ -94,3 +94,4 @@
 * [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/) - Adam Chlipala
 * [Verified Functional Algorithms](http://www.cs.princeton.edu/~appel/vfa/) -  Andrew W. Appel
 * [Foundations of Computer Science](https://www.cl.cam.ac.uk/teaching/1998/FoundsCS/)
+* [Software Foundations](https://softwarefoundations.cis.upenn.edu/draft/)
