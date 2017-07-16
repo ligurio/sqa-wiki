@@ -40,6 +40,7 @@
   * [Programs and Proofs in the Coq Proof Assistant](https://www.cis.upenn.edu/~rrand/popl_2016/)
   * ...and [more](https://coq.inria.fr/cocorico/CoqInTheClassroom)
   * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
+  * [DeepSpec Summer School, Coq Intensive](https://www.youtube.com/playlist?list=PLovJjGVqXXf3RgVdCXH96pPwSjFLDhSri)
 
 ## In Russian
 
