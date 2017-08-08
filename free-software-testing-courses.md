@@ -1,5 +1,8 @@
 ## In English
 
+* NPTEL
+  * [software Testing](http://nptel.ac.in/courses/106105150/)
+  * [Embedded Software Testing](http://nptel.ac.in/courses/117106112/)
 * edX
   * [Software Testing Fundamentals](https://www.edx.org/course/software-testing-fundamentals-usmx-university-maryland-university-stv1-1x)
   * [Software Testing Management](https://www.edx.org/course/software-testing-management-usmx-university-maryland-university-stv1-2x)
