@@ -44,6 +44,8 @@
   * ...and [more](https://coq.inria.fr/cocorico/CoqInTheClassroom)
   * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
   * [DeepSpec Summer School, Coq Intensive](https://www.youtube.com/playlist?list=PLovJjGVqXXf3RgVdCXH96pPwSjFLDhSri)
+* Upcase:
+  * [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
 
 ## In Russian
 
