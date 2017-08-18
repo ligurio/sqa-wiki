@@ -9,6 +9,7 @@
 
 #### Software testing theory
 
+* [A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops)
 * [Programs and Proofs. Mechanizing Mathematics with Dependent Types.](http://ilyasergey.net/pnp/)
 * [Software testing](http://www.rehancodes.com/files/ron-patton-software-testing-1st-edition.pdf) - Ron Patton
 * [Measure Software Quality using Application Security](https://github.com/DinisCruz/Book_Software_Quality/tree/master/content) (WIP) - Dinis Cruz
