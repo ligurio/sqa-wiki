@@ -14,6 +14,7 @@
 * Udacity:
   * [Software Testing Methods](https://www.udacity.com/course/software-testing--cs258)
   * [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+  * [Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
 * Alison:
   * [Introduction to Software Testing](https://alison.com/course/introduction-to-software-testing)
   * [Software Testing - Black-box Strategies and White-box Testing](https://alison.com/course/software-testing-black-box-strategies-and-white-box-testing)
