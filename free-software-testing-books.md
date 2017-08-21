@@ -50,6 +50,7 @@
 * [The International Software Testing Standard](http://softwaretestingstandard.org/)
 * [Standard for Software Component Testing](http://www.testingstandards.co.uk/Component%20Testing.pdf) (PDF)
 * [Everything You Need to Know About Software Test Formats](https://gist.github.com/ligurio/6efa8576e175fa0fb5d04cfe5c85a2a5) (in Russian)
+* [Software Testing Standards in NASA](http://www.system-safety.org/Documents/NASA-GB-8719.13.pdf)
 
 #### Testing of Free and OpenSource Software
 
