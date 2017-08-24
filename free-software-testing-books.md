@@ -101,3 +101,4 @@
 * [Verified Functional Algorithms](http://www.cs.princeton.edu/~appel/vfa/) -  Andrew W. Appel
 * [Foundations of Computer Science](https://www.cl.cam.ac.uk/teaching/1998/FoundsCS/)
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu/draft/)
+* [Principles of Model Checking](http://is.ifmo.ru/books/_principles_of_model_checking.pdf)
