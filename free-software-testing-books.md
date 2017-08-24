@@ -86,6 +86,8 @@
 * [TestNG Tutorial](http://www.tutorialspoint.com/testng/index.htm)
 * [JUnit Tutorial](http://www.tutorialspoint.com/junit/index.htm)
 * [PropEr Testing](http://propertesting.com/) 
+* [Better Unit Testing with Microsoft Fakes](https://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#Better_Unit_Testing_with_Microsoft_Fakes)
+* [Testing for Continuous Delivery with Visual Studio 2012](https://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#Testing_for_Continuous_Delivery)
 
 
 #### Formal verification
