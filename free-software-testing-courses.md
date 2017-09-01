@@ -47,6 +47,7 @@
   * [DeepSpec Summer School, Coq Intensive](https://www.youtube.com/playlist?list=PLovJjGVqXXf3RgVdCXH96pPwSjFLDhSri)
 * Upcase:
   * [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
+* [Computer Systems Analysis](http://www.cs.wustl.edu/~jain/cse567-06/index.html)
 
 ## In Russian
 
