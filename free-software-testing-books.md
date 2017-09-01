@@ -52,6 +52,7 @@
 * [Everything You Need to Know About Software Test Formats](https://gist.github.com/ligurio/6efa8576e175fa0fb5d04cfe5c85a2a5) (in Russian)
 * [Software Testing Standards in NASA](http://www.system-safety.org/Documents/NASA-GB-8719.13.pdf)
 * [ECSS-Q-ST-80C Rev.1 – Software product assurance](http://ecss.nl/standard/ecss-q-st-80c-rev-1-software-product-assurance-15-february-2017/)
+* [NASA Software Safety Guidebook](http://www.system-safety.org/Documents/NASA-GB-8719.13.pdf)
 
 #### Testing of Free and OpenSource Software
 
