@@ -9,6 +9,7 @@
 
 #### Software testing theory
 
+* [Perspectives on Agile Software Testing](https://info.thoughtworks.com/ebook-agile-software-testing)
 * [A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops)
 * [Programs and Proofs. Mechanizing Mathematics with Dependent Types.](http://ilyasergey.net/pnp/)
 * [Software testing](http://www.rehancodes.com/files/ron-patton-software-testing-1st-edition.pdf) - Ron Patton
