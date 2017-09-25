@@ -15,7 +15,7 @@
 * [Software testing](http://www.rehancodes.com/files/ron-patton-software-testing-1st-edition.pdf) - Ron Patton
 * [Measure Software Quality using Application Security](https://github.com/DinisCruz/Book_Software_Quality/tree/master/content) (WIP) - Dinis Cruz
 * [The "A" Word](https://leanpub.com/TheAWord) - Alan Page
-* [Professianal Software Development](http://mixmastamyk.bitbucket.org/pro_soft_dev/) (Chapter: "5. Software Quality") - Mike G. Miller
+* [Professional Software Development](http://mixmastamyk.bitbucket.org/pro_soft_dev/) (Chapter: "5. Software Quality") - Mike G. Miller
 * [Acceptance Test Engineering Guide, Vol. I - RC1](https://testingguidance.codeplex.com/)
 * [A Software Testing Primer](http://nickj69.webstore.s3-website-ap-southeast-2.amazonaws.com/downloads/newTestingPrimer_2016.pdf) (PDF)
 * [Classic Testing Mistakes](http://www.exampler.com/testing-com/writings/classic/mistakes.pdf) (PDF) - Brian Marick
@@ -75,7 +75,6 @@
 
 #### Testing Tools
 
-* Software Foundations - Benjamin C. Pierce Chris Casinghino Marco Gaboardi Michael Greenberg Cătălin Hriţcu Vilhelm Sjöberg Brent Yorgey ([HTML](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html), [epub](https://github.com/carliros/software-foundations-book))
 * [The Evolving Art of Fuzzing](http://www.vdalabs.com/tools/The_Evolving_Art_of_Fuzzing.pdf) (PDF) - Jared DeMott
 * [AccelTest](http://www.lausd.net/istem/2know_files/Software_Manual.pdf) (PDF)
 * [A Step-by-Step Guide to Functional Testing with TestComplete](http://www2.smartbear.com/download-mqi-inbound-testcomplete-functional-testing-top-5-ebook-blog.html)
@@ -87,7 +86,7 @@
 * [SoapUI 101: Beginner's Guide to Functional Testing](http://www2.smartbear.com/download-mqi-nbound-soapui-top-5-blast-ebook-blog.html)
 * [TestNG Tutorial](http://www.tutorialspoint.com/testng/index.htm)
 * [JUnit Tutorial](http://www.tutorialspoint.com/junit/index.htm)
-* [PropEr Testing](http://propertesting.com/) 
+* [PropEr Testing](http://propertesting.com/) - Fred Hebert
 * [Better Unit Testing with Microsoft Fakes](https://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#Better_Unit_Testing_with_Microsoft_Fakes)
 * [Testing for Continuous Delivery with Visual Studio 2012](https://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#Testing_for_Continuous_Delivery)
 
@@ -100,7 +99,7 @@
 * [Books and papers about TLA+ and formal verification by Leslie Lamport](https://www.microsoft.com/en-us/research/people/lamport/#)
 * [Alloy Documentation](http://alloy.mit.edu/alloy/documentation.html) - Daniel Jackson
 * [Introduction to Spin](http://spinroot.com/spin/Man/) - Multiple Authors
-* Software Foundations ([4.0](https://www.cis.upenn.edu/~bcpierce/sf/sf-4.0/), [current](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html)) - Benjamin C. Pierce & Co
+* Software Foundations: [4.0](https://www.cis.upenn.edu/~bcpierce/sf/sf-4.0/), [current](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html), [epub](https://github.com/carliros/software-foundations-book) - Benjamin C. Pierce & Co
 * [Programs and Proofs](http://ilyasergey.net/pnp/) - Ilya Sergey
 * [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/) - Adam Chlipala
 * [Verified Functional Algorithms](http://www.cs.princeton.edu/~appel/vfa/) -  Andrew W. Appel
