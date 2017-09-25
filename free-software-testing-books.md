@@ -104,10 +104,10 @@
 * [Programs and Proofs](http://ilyasergey.net/pnp/) - Ilya Sergey
 * [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/) - Adam Chlipala
 * [Verified Functional Algorithms](http://www.cs.princeton.edu/~appel/vfa/) -  Andrew W. Appel
-* [Foundations of Computer Science](https://www.cl.cam.ac.uk/teaching/1998/FoundsCS/)
+* [Foundations of Computer Science](https://www.cl.cam.ac.uk/teaching/1998/FoundsCS/) - Dr Larry Paulson
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu/draft/)
-* Principles of Model Checking [1](http://is.ifmo.ru/books/_principles_of_model_checking.pdf), [2](https://pdfs.semanticscholar.org/f126/9591359fddc20f95da10c7bd4c054080b447.pdf)
-* [Concrete Semantics](http://concrete-semantics.org/)
-* [ML for the Working Programmer, 2nd Edition](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html)
-* [Proofs and Types](http://www.paultaylor.eu/stable/Proofs+Types.html)
-* [Proof assistants: History, ideas and future](http://www.ias.ac.in/article/fulltext/sadh/034/01/0003-0025)
+* [Principles of Model Checking](https://pdfs.semanticscholar.org/f126/9591359fddc20f95da10c7bd4c054080b447.pdf) - Christel Baier, Joost-Pieter Katoen
+* [Concrete Semantics](http://concrete-semantics.org/) - Tobias Nipkow and Gerwin Klein 
+* [ML for the Working Programmer, 2nd Edition](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html) - Lawrence C. Paulson
+* [Proofs and Types](http://www.paultaylor.eu/stable/Proofs+Types.html) - Jean-Yves Girard, Yves Lafont and Paul Taylor
+* [Proof assistants: History, ideas and future](http://www.ias.ac.in/article/fulltext/sadh/034/01/0003-0025) - H. Geuvers
