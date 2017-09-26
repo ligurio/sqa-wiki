@@ -99,12 +99,12 @@
 * [Books and papers about TLA+ and formal verification by Leslie Lamport](https://www.microsoft.com/en-us/research/people/lamport/#)
 * [Alloy Documentation](http://alloy.mit.edu/alloy/documentation.html) - Daniel Jackson
 * [Introduction to Spin](http://spinroot.com/spin/Man/) - Multiple Authors
-* Software Foundations: [4.0](https://www.cis.upenn.edu/~bcpierce/sf/sf-4.0/), [current](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html), [epub](https://github.com/carliros/software-foundations-book) - Benjamin C. Pierce & Co
+* Software Foundations: [4.0](https://www.cis.upenn.edu/~bcpierce/sf/sf-4.0/), [current](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html), [draft](https://softwarefoundations.cis.upenn.edu/draft/)
+, [epub](https://github.com/carliros/software-foundations-book) - Benjamin C. Pierce & Co
 * [Programs and Proofs](http://ilyasergey.net/pnp/) - Ilya Sergey
 * [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/) - Adam Chlipala
 * [Verified Functional Algorithms](http://www.cs.princeton.edu/~appel/vfa/) -  Andrew W. Appel
 * [Foundations of Computer Science](https://www.cl.cam.ac.uk/teaching/1998/FoundsCS/) - Dr Larry Paulson
-* [Software Foundations](https://softwarefoundations.cis.upenn.edu/draft/)
 * [Principles of Model Checking](https://pdfs.semanticscholar.org/f126/9591359fddc20f95da10c7bd4c054080b447.pdf) - Christel Baier, Joost-Pieter Katoen
 * [Concrete Semantics](http://concrete-semantics.org/) - Tobias Nipkow and Gerwin Klein 
 * [ML for the Working Programmer, 2nd Edition](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html) - Lawrence C. Paulson
