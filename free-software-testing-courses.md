@@ -48,6 +48,7 @@
 * Upcase:
   * [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
 * [Computer Systems Analysis](http://www.cs.wustl.edu/~jain/cse567-06/index.html)
+* [Black Box Software Testing course](http://www.testingeducation.org/BBST/)
 
 ## In Russian
 
