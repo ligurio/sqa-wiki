@@ -42,6 +42,7 @@
   * [Formal Reasoning About Programs](https://frap.csail.mit.edu/main)
   * [An Introduction to the Coq Proof Assistant](https://www.cis.upenn.edu/~rrand/cufp_2015/)
   * [Programs and Proofs in the Coq Proof Assistant](https://www.cis.upenn.edu/~rrand/popl_2016/)
+  * [CIS 500: Software Foundations](https://www.seas.upenn.edu/%7Ecis500/cis500-f14/index.html)
   * ...and [more](https://coq.inria.fr/cocorico/CoqInTheClassroom)
   * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
   * [DeepSpec Summer School, Coq Intensive](https://www.youtube.com/playlist?list=PLovJjGVqXXf3RgVdCXH96pPwSjFLDhSri)
