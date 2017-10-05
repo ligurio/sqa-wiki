@@ -110,3 +110,4 @@
 * [ML for the Working Programmer, 2nd Edition](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html) - Lawrence C. Paulson
 * [Proofs and Types](http://www.paultaylor.eu/stable/Proofs+Types.html) - Jean-Yves Girard, Yves Lafont and Paul Taylor
 * [Proof assistants: History, ideas and future](http://www.ias.ac.in/article/fulltext/sadh/034/01/0003-0025) - H. Geuvers
+* awesome-math: [Logic](https://github.com/rossant/awesome-math#logic)
