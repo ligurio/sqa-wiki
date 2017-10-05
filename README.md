@@ -29,3 +29,8 @@ And I have decided to create a similar list but for [software testing books](/fr
 
 To the extent possible under law, [Sergey Bronnikov](https://bronevichok.ru) has
 waived all copyright and related or neighboring rights to this work.
+
+
+- [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
+- [awesome-tap](https://github.com/sindresorhus/awesome-tap)
