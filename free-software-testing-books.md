@@ -44,6 +44,7 @@
 * [What If: 50+ tips to boost your productivity](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf) (PDF) - Ajay Balamurugadas
 * [What If: 50+ tips to improve tester-programmer relationship](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-improve-tester-programmer-relationship.pdf) (PDF) - Ajay Balamurugadas
 * [Handbook of Software Reliability Engineering](http://www.cse.cuhk.edu.hk/~lyu/book/reliability/)
+* [Mutation Testing: Better Code by Making Bugs](https://leanpub.com/mutationtesting) - Filip van Laenen
 
 #### Standards in software testing
 
