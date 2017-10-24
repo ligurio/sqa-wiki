@@ -30,6 +30,7 @@
   * [LoadRunner Tutorials](https://www.youtube.com/playlist?list=PLFB7DB42D42A7C31C)
   * [QTP Training](https://www.youtube.com/playlist?list=PLF20D996D82993E79)
 * Formal verification
+  * [Logic, Languages, Compilation, and Verification](https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
   * [Interactive Computer Theorem Proving](http://adam.chlipala.net/itp/)
   * [A survey of automated theorem proving](http://compsciclub.ru/en/courses/theoremproving/2013-autumn/)
   * [IMC010: Type Theory and Coq](http://www.cs.ru.nl/~freek/courses/tt-2011/)
