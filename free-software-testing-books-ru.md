@@ -18,3 +18,8 @@
 * [Автоматизация тестирования от «А» до «Ы»](https://alpaev.com/testautomation/) - Gennadiy Alpaev
 * [Учебник по SilkTest](https://alpaev.com/silktest/) - Gennadiy Alpaev
 * [Учебник по TestComplete](https://alpaev.com/testcomplete/) - Gennadiy Alpaev
+
+### Формальные методы
+
+* [Верификация программ методом Model Checking](http://intsys.msu.ru/staff/mironov/modelchk.pdf) - А.М.Миронов
+* http://is.ifmo.ru/verification/
