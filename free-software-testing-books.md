@@ -113,3 +113,4 @@
 * [Proofs and Types](http://www.paultaylor.eu/stable/Proofs+Types.html) - Jean-Yves Girard, Yves Lafont and Paul Taylor
 * [Proof assistants: History, ideas and future](http://www.ias.ac.in/article/fulltext/sadh/034/01/0003-0025) - H. Geuvers
 * awesome-math: [Logic](https://github.com/rossant/awesome-math#logic)
+* [Design and validation of computer protocols](http://cdn.worldcolleges.info/sites/default/files/x20v_1991.pdf) - Gerard J. Holzmann
