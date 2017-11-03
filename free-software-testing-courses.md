@@ -62,6 +62,7 @@
 * [Modelling and verifying algorithms in Coq: an introduction](https://www.di.ens.fr/~zappa/teaching/coq/ecole10/)
 * [Formal Reasoning About Programs](https://frap.csail.mit.edu/main)
 * [Software foundations in Coq 0.1](https://www.youtube.com/watch?v=KKrD4JcfW90&list=PLGCr8P_YncjUT7gXUVJWSoefQ40gTOz89) - Benjamin Pierce
+* [Compiler Certification](https://www.youtube.com/watch?v=-UdPqZTqExM&list=PLGCr8P_YncjUX7yHchN7KSS83KXMHmC6e) — Xavier Leroy
 
 ##### Isabelle/HOL
 
