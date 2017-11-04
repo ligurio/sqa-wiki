@@ -18,7 +18,7 @@ before_script:
   - time flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
 
 script:
-  - python check_urls.py free-software-testing-books-ru.md
+  - python check_urls.py free-software-testing-courses.md
   - python check_urls.py free-software-testing-books.md
 
 notifications:
