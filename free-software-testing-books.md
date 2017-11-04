@@ -1,13 +1,6 @@
-### Index
+## In English
 
-* [Software testing theory](#software-testing-theory)
-* [Standards in software testing](#standards-in-software-testing)
-* [Testing of Free and OpenSource Software](#testing-of-free-and-opensource-software)
-* [Testing with different programming languages](#testing-with-different-programming-languages)
-* [Testing Tools](#testing-tools)
-* [Formal Methods](#formal-methods)
-
-#### Software testing theory
+#### Software Testing Theory
 
 * [Perspectives on Agile Software Testing](https://info.thoughtworks.com/ebook-agile-software-testing)
 * [A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops)
@@ -46,7 +39,7 @@
 * [Handbook of Software Reliability Engineering](http://www.cse.cuhk.edu.hk/~lyu/book/reliability/)
 * [Mutation Testing: Better Code by Making Bugs](https://leanpub.com/mutationtesting) - Filip van Laenen
 
-#### Standards in software testing
+#### Standards In software Testing
 
 * [Testing Standards Working Party](http://www.testingstandards.co.uk/)
 * [The International Software Testing Standard](http://softwaretestingstandard.org/)
@@ -61,8 +54,7 @@
 * [Quality Improvement in Volunteer Free and Open Source Software Project](http://www.cyrius.com/publications/michlmayr-phd.pdf) (PDF)
 * [Testing and quality management of free and open source software](https://github.com/ligurio/tos-book) (WIP) - Sergey Bronnikov
 
-
-#### Testing with different programming languages
+#### Testing by different programming languages
 
 * [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality](http://refcardz.dzone.com/refcardz/phpunit-php-test-driven)
 * [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
@@ -72,7 +64,6 @@
 * [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript)
 * [Web Application Testing in Ruby](https://leanpub.com/watirbook/read) Željko Filipin
-
 
 #### Testing Tools
 
@@ -90,7 +81,6 @@
 * [PropEr Testing](http://propertesting.com/) - Fred Hebert
 * [Better Unit Testing with Microsoft Fakes](https://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#Better_Unit_Testing_with_Microsoft_Fakes)
 * [Testing for Continuous Delivery with Visual Studio 2012](https://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#Testing_for_Continuous_Delivery)
-
 
 #### Formal methods
 
@@ -114,3 +104,27 @@
 * [Proof assistants: History, ideas and future](http://www.ias.ac.in/article/fulltext/sadh/034/01/0003-0025) - H. Geuvers
 * awesome-math: [Logic](https://github.com/rossant/awesome-math#logic)
 * [Design and validation of computer protocols](http://cdn.worldcolleges.info/sites/default/files/x20v_1991.pdf) - Gerard J. Holzmann
+
+## In Russian
+
+#### Управление проектами
+* [Черная книга менеджера](http://www.stratoplan.ru/free/mbb/) ([pdf](http://labs.stratoplan.ru/wmbook-03-01/black_book.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/black_book.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/black_book.mobi)) Слава Панкратов
+* [Белая книжная полка менеджера](http://labs.stratoplan.ru/wmbook-03-01/) ([epub](http://labs.stratoplan.ru/wmbook-03-01/wmbook.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/wmbook.mobi), [zip](http://labs.stratoplan.ru/wmbook-03-01/wmbook.zip))
+* Как стать менеджером ([pdf](http://labs.stratoplan.ru/wmbook-03-01/it_manager.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/it_manager.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/it_manager.mobi)) - Слава Панкратов, Александр Орлов
+* [It starts with a great product](https://www.intercom.com/books/product-management)
+* [Гибкие методологии разработки](http://adm-lib.ru/books/10/Gibkie-metodologii.pdf) - Вольфсон Борис
+
+#### Тестирование ПО
+* [Test-Driven Development in Practice](https://github.com/risik/tdd-book) - Сергей Борисов
+* [Тестирование программного обеспечения. Базовый курс.](http://svyatoslav.biz/software_testing_book/) - Святослав Куликов
+* [Всё, что вам нужно знать о форматах отчётов в тестировании ПО](https://gist.github.com/ligurio/6efa8576e175fa0fb5d04cfe5c85a2a5) - Сергей Бронников
+* [Руководство по тестированию пользовательского опыта для сайтов, мобильных приложений и прототипов](https://uxcrowd.ru/file/guide.pdf)
+* [Автоматизация тестирования от «А» до «Ы»](https://alpaev.com/testautomation/) - Gennadiy Alpaev
+* [Учебник по SilkTest](https://alpaev.com/silktest/) - Gennadiy Alpaev
+* [Учебник по TestComplete](https://alpaev.com/testcomplete/) - Gennadiy Alpaev
+
+#### Формальные методы
+
+* [Верификация программ методом Model Checking](http://intsys.msu.ru/staff/mironov/modelchk.pdf) - А.М.Миронов
+* http://is.ifmo.ru/verification/
+* [Введение в язык Promela и систему комплексной верификации Spin](http://dcn.icc.spbstu.ru/~karpov/%D0%9A%D1%83%D1%80%D1%81%20%D0%92%D0%B5%D1%80%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F/Kypcovaja/SPIN%20Manual.pdf) - И.В. Шошмина, Ю.Г. Карпов
