@@ -135,3 +135,4 @@
 * [Верификация программ методом Model Checking](http://intsys.msu.ru/staff/mironov/modelchk.pdf) - А.М.Миронов
 * http://is.ifmo.ru/verification/
 * [Введение в язык Promela и систему комплексной верификации Spin](http://dcn.icc.spbstu.ru/~karpov/%D0%9A%D1%83%D1%80%D1%81%20%D0%92%D0%B5%D1%80%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F/Kypcovaja/SPIN%20Manual.pdf) - И.В. Шошмина, Ю.Г. Карпов
+* [Тестирование на основе моделей](http://panda.ispras.ru/~kuliamin/mbt-course.html) - В.В. Кулямин
