@@ -98,7 +98,7 @@
 * [Principles of Model Checking](https://pdfs.semanticscholar.org/f126/9591359fddc20f95da10c7bd4c054080b447.pdf) - Christel Baier, Joost-Pieter Katoen
 * [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/) - Adam Chlipala @achlipala
 * [Formal Reasoning About Programs](http://adam.chlipala.net/frap/) - Adam Chlipala @achlipala
-* [Concrete Semantics](http://concrete-semantics.org/) - Tobias Nipkow and Gerwin Klein 
+* [Concrete Semantics](http://concrete-semantics.org/) - Tobias Nipkow and Gerwin Klein @lsf37
 * [ML for the Working Programmer, 2nd Edition](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html) - Lawrence C. Paulson
 * [Proofs and Types](http://www.paultaylor.eu/stable/Proofs+Types.html) - Jean-Yves Girard, Yves Lafont and Paul Taylor
 * [Proof assistants: History, ideas and future](http://www.ias.ac.in/article/fulltext/sadh/034/01/0003-0025) - H. Geuvers
