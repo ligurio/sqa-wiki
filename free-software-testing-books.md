@@ -102,8 +102,15 @@
 * [ML for the Working Programmer, 2nd Edition](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html) - Lawrence C. Paulson
 * [Proofs and Types](http://www.paultaylor.eu/stable/Proofs+Types.html) - Jean-Yves Girard, Yves Lafont and Paul Taylor
 * [Proof assistants: History, ideas and future](http://www.ias.ac.in/article/fulltext/sadh/034/01/0003-0025) - H. Geuvers
-* awesome-math: [Logic](https://github.com/rossant/awesome-math#logic)
 * [Design and validation of computer protocols](http://cdn.worldcolleges.info/sites/default/files/x20v_1991.pdf) - Gerard J. Holzmann
+* [Introduction to Logic](http://logic.stanford.edu/intrologic/secondary/index.html) - Michael Genesereth, Eric Kao (Stanford University)
+* [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) - P.D. Magnus (University at Albany)
+* [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk (Trent University)
+* [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) - Jon Barwise, John Etchemendy
+* [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) - Helmut Schwichtenberg
+* [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
+* [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
+
 
 ## In Russian
 
