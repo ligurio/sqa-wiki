@@ -72,7 +72,7 @@
 #### TLA+
 
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
-
+* [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus)
 
 ## In Russian
 
