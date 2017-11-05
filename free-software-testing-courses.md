@@ -4,6 +4,13 @@
 * [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 * [Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
 * [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
+* [Critical Reasoning for Beginners](http://podcasts.ox.ac.uk/series/critical-reasoning-beginners)
+* [Reasoning Across the Disciplines](https://ru.coursera.org/learn/critical-reasoning)
+* [Discrete Mathematics and Probability Theory](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iDze6fOp3qofgyjJVUioedA)
+* [Mathematical Logic](https://www.youtube.com/playlist?list=PL2EB5662A0D455A81&feature=plcp)
+* [Engineering Ethics](https://ocw.mit.edu/courses/engineering-systems-division/esd-932-engineering-ethics-spring-2006/audio-lectures/)
+* [Engineering Ethics](https://itunes.apple.com/us/course/engineering-ethics/id1039496124?ign-mpt=uo%3D8)
+
 
 #### Software Testing
 
@@ -41,16 +48,6 @@
 * [Performance Engineering of Software Systems](https://www.youtube.com/playlist?list=PLD2AE32F507F10481&feature=plcp)
 * [LoadRunner Tutorials](https://www.youtube.com/playlist?list=PLFB7DB42D42A7C31C)
 * [Computer Systems Analysis](http://www.cs.wustl.edu/~jain/cse567-06/index.html)
-
-#### 
-
-* [Critical Reasoning for Beginners](http://podcasts.ox.ac.uk/series/critical-reasoning-beginners)
-* [Reasoning Across the Disciplines](https://ru.coursera.org/learn/critical-reasoning)
-* [Discrete Mathematics and Probability Theory](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iDze6fOp3qofgyjJVUioedA)
-* [Engineering Ethics](https://ocw.mit.edu/courses/engineering-systems-division/esd-932-engineering-ethics-spring-2006/audio-lectures/)
-* [Engineering Ethics](https://itunes.apple.com/us/course/engineering-ethics/id1039496124?ign-mpt=uo%3D8)
-* [Mathematical Logic](https://www.youtube.com/playlist?list=PL2EB5662A0D455A81&feature=plcp)
-
 
 #### Formal Software Verification
 
