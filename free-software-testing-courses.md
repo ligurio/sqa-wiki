@@ -66,6 +66,7 @@
 * [An Introduction to the Coq Proof Assistant](https://www.cis.upenn.edu/~rrand/cufp_2015/)
 * [Coq Intensive](https://www.youtube.com/playlist?list=PLovJjGVqXXf3RgVdCXH96pPwSjFLDhSri) - DeepSpec Summer School
 * [Interactive Computer Theorem Proving](http://adam.chlipala.net/itp/)
+* [Coq tutorials](https://www.youtube.com/playlist?list=PLDD40A96C2ED54E99)
 * [Type Theory and Coq](http://www.cs.ru.nl/~freek/courses/tt-2011/)
 * [Logical Verification](http://www.cs.vu.nl//~jbe248/lv2017/)
 * [Modelling and verifying algorithms in Coq: an introduction](https://www.di.ens.fr/~zappa/teaching/coq/ecole10/)
