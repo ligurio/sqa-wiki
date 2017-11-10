@@ -10,7 +10,7 @@
 * [The "A" Word](https://leanpub.com/TheAWord) - Alan Page
 * [Professional Software Development](http://mixmastamyk.bitbucket.org/pro_soft_dev/) (Chapter: "5. Software Quality") - Mike G. Miller
 * [Acceptance Test Engineering Guide, Vol. I - RC1](https://testingguidance.codeplex.com/)
-* [A Software Testing Primer](http://nickj69.webstore.s3-website-ap-southeast-2.amazonaws.com/downloads/newTestingPrimer_2016.pdf) (PDF)
+* [A Software Testing Primer](http://www.betoryuu.com/images/tour/items/file/testingPrimer.pdf) (PDF)
 * [Classic Testing Mistakes](http://www.exampler.com/testing-com/writings/classic/mistakes.pdf) (PDF) - Brian Marick
 * [Code Coverage Analysis](http://www.bullseye.com/coverage.html) - Steve Cornett
 * [Practical Software Testing](http://www.softwaretestinghelp.com/practical-software-testing-new-free-ebook-download/) - STH in association with Chindam Damodar
