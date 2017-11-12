@@ -80,10 +80,15 @@
 * [Advanced Topics in Software Verification](https://www.cse.unsw.edu.au/~cs4161/16s2/)
 * [Theorem Proving - Principles, Techniques, Applications](https://www.cse.unsw.edu.au/~kleing/teaching/thprv-04/index.html)
 
-#### TLA+
+##### TLA+
 
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
 * [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus)
+
+##### Spin/PVS
+
+* [Theorem Proving and Model Checking in PVS](https://www.cs.cmu.edu/~emc/15-820A/) - Edmund M. Clarke
+
 
 ## In Russian
 
