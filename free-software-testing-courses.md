@@ -32,6 +32,14 @@
 * [QTP Training](https://www.youtube.com/playlist?list=PLF20D996D82993E79)
 * [Selenium Tutorials](https://www.guru99.com/selenium-tutorial.html)
 
+#### Fuzz testing
+
+* [Intro: Unknown vulnerability management and discovery using fuzzing](https://vimeo.com/88662183)
+* [Part 1: What are unknown vulnerabilities and why should I care](https://vimeo.com/88676857)
+* [Part 2: What is fuzz testing, and where does it fit in the world of software?](https://vimeo.com/89234167)
+* [Part 3: How and why fuzz testing, and managing your unknown vulnerabilities saves money](https://vimeo.com/89974203)
+* [Part 4: Fuzz testing techniques: unfuzzing the fuzzing](https://vimeo.com/90074270)
+
 #### Software Testing Management
 
 * [Software Testing Management](https://www.edx.org/course/software-testing-management-usmx-university-maryland-university-stv1-2x)
