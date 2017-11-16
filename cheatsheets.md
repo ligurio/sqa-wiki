@@ -49,6 +49,7 @@
 - http://lamport.azurewebsites.net/tla/summary.pdf
 - https://lamport.azurewebsites.net/tla/summary-standalone.pdf
 - https://members.loria.fr/SMerz/talks/argentina2005/LamportTLA+CheatSheet.pdf
+- https://github.com/parlarjb/tla_workshop
 
 
 ## Spin
