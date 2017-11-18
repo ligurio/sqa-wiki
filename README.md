@@ -38,3 +38,4 @@ waived all copyright and related or neighboring rights to this work.
 - [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 - [Static analysis](https://github.com/mre/awesome-static-analysis)
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap)
+- [Selenium](https://github.com/TheJambo/awesome-testing)
