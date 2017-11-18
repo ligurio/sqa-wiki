@@ -33,7 +33,8 @@ waived all copyright and related or neighboring rights to this work.
 
 ### Useful lists
 
+- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing)
 - [Mutation testing](https://github.com/theofidry/mutation-testing)
-- [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
-- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
-- [awesome-tap](https://github.com/sindresorhus/awesome-tap)
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
+- [Static analysis](https://github.com/mre/awesome-static-analysis)
+- [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap)
