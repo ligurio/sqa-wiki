@@ -73,6 +73,7 @@
 * [Coq in a Hurry](https://cel.archives-ouvertes.fr/file/index/docid/72365/filename/coq-hurry.pdf)
 * [Programs and Proofs in the Coq Proof Assistant](https://www.cis.upenn.edu/~rrand/popl_2016/)
 * [An Introduction to the Coq Proof Assistant](https://www.cis.upenn.edu/~rrand/cufp_2015/)
+* [Introduction to the Coq Proof Assistant](https://video.ias.edu/univalent/appel)
 * [Coq Intensive](https://www.youtube.com/playlist?list=PLovJjGVqXXf3RgVdCXH96pPwSjFLDhSri) - DeepSpec Summer School
 * [Interactive Computer Theorem Proving](http://adam.chlipala.net/itp/)
 * [Coq tutorials](https://www.youtube.com/playlist?list=PLDD40A96C2ED54E99)
