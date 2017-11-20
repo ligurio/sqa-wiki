@@ -110,7 +110,7 @@
 * [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) - Helmut Schwichtenberg
 * [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
-
+* [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://github.com/paulmckrcu/perfbook/) (chapters "Validation" and "Formal verification") - Paul E. McKenney @paulmckrcu
 
 ## In Russian
 
