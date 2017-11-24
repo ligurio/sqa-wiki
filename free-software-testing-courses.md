@@ -31,6 +31,8 @@
 * [Quality Center Training](https://www.youtube.com/playlist?list=PL2CA3A709452D4E27)
 * [QTP Training](https://www.youtube.com/playlist?list=PLF20D996D82993E79)
 * [Selenium Tutorials](https://www.guru99.com/selenium-tutorial.html)
+* [Selenium WebDriver Course](https://thefriendlytester.co.uk/selenium/course/)
+
 
 #### Fuzz testing
 
