@@ -1,8 +1,7 @@
 ### Workshops and interactive learning tools
 
 - [Learn TLA](https://learntla.com/introduction/)
-- a nodeschool.io-style workshopper for learning how to debug Node.js apps https://github.com/othiym23/bug-clinic
-- test-anything https://github.com/finnp/test-anything
+- [test-anything](https://github.com/finnp/test-anything)
 - https://math-comp.github.io/mcb/
 - [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop)
 - [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
