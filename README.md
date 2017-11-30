@@ -5,8 +5,9 @@
 
 ### Intro
 
-There is a list of [free programming ebooks](https://github.com/vhf/free-programming-books).
-And I have decided to create a similar list but with [software testing books](/free-software-testing-books.md). And now we have not only lists with [books](/free-software-testing-books.md), but also [courses](/free-software-testing-courses.md) and [podcasts](/free-software-testing-podcasts.md).
+There is a list of [free programming
+ebooks](https://github.com/vhf/free-programming-books).  And I have decided to
+create a similar list with books, courses and podcasts about software quality.
 
 **[Subscribe](https://github.com/ligurio/free-software-testing-books/subscription) to receive notificatons.**
 
@@ -19,9 +20,17 @@ And I have decided to create a similar list but with [software testing books](/f
 
 - [Cambridge University](https://www.cambridge.org/core/journals/powder-diffraction/article/why-scientists-should-learn-to-program-in-python/EB88FFCC7384998768AFDAE219EF6EFA/core-reader)
 - [Stack Exchange](https://sqa.stackexchange.com/posts/22640/revisions)
-- [UTest](https://www.utest.com/status/11754):
+- [UTest](https://www.utest.com/status/11754): 
 
 > Just found this gold and feel like I have to share it with the best testing community: Free Books about Software Testing!
+
+## Index
+
+* [Books](#books)
+* [Courses](#courses)
+* [Podcasts](#podcasts)
+* [Conferences](#conferences)
+* [Awesome lists](#awesome-lists)
 
 
 # Books
