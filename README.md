@@ -317,7 +317,6 @@ And I have decided to create a similar list but with [software testing books](/f
 
 # Conferences
 
-* [European Testing Conference](http://europeantestingconference.eu/)
 * [Software Testing Conferences](http://testingconferences.org/)
 
 # Podcasts
