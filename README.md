@@ -30,6 +30,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Courses](#courses)
 * [Podcasts](#podcasts)
 * [Conferences](#conferences)
+* [Workshops and interactive learning tools](#workshops-and-interactive-learning-tools)
 * [Awesome lists](#awesome-lists)
 
 
