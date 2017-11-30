@@ -31,7 +31,7 @@ And I have decided to create a similar list but with [software testing books](/f
 
 * [Perspectives on Agile Software Testing](https://info.thoughtworks.com/ebook-agile-software-testing)
 * [A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops)
-* [Programs and Proofs. Mechanizing Mathematics with Dependent Types.](http://ilyasergey.net/pnp/)
+* [Programs and Proofs. Mechanizing Mathematics with Dependent Types.](http://ilyasergey.net/pnp/) - Ilya Sergey @ilyasergey
 * [Software testing](http://www.rehancodes.com/files/ron-patton-software-testing-1st-edition.pdf) - Ron Patton
 * [Measure Software Quality using Application Security](https://github.com/DinisCruz/Book_Software_Quality/tree/master/content) (WIP) - Dinis Cruz
 * [The "A" Word](https://leanpub.com/TheAWord) - Alan Page
@@ -73,7 +73,6 @@ And I have decided to create a similar list but with [software testing books](/f
 * [Everything You Need to Know About Software Test Formats](https://dou.ua/lenta/articles/software-test-formats/) (in Russian)
 * [Software Testing Standards in NASA](http://www.system-safety.org/Documents/NASA-GB-8719.13.pdf)
 * [ECSS-Q-ST-80C Rev.1 – Software product assurance](http://ecss.nl/standard/ecss-q-st-80c-rev-1-software-product-assurance-15-february-2017/)
-* [NASA Software Safety Guidebook](http://www.system-safety.org/Documents/NASA-GB-8719.13.pdf)
 
 #### Testing of Free and OpenSource Software
 
@@ -118,7 +117,6 @@ And I have decided to create a similar list but with [software testing books](/f
 * [Introduction to Spin](http://spinroot.com/spin/Man/) - Multiple Authors
 * Software Foundations: [4.0](https://www.cis.upenn.edu/~bcpierce/sf/sf-4.0/), [current](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html), [draft](https://softwarefoundations.cis.upenn.edu/draft/)
 , [epub](https://github.com/carliros/software-foundations-book) - Benjamin C. Pierce & Co
-* [Programs and Proofs](http://ilyasergey.net/pnp/) - Ilya Sergey @ilyasergey
 * [Verified Functional Algorithms](http://www.cs.princeton.edu/~appel/vfa/) - Andrew W. Appel
 * [Foundations of Computer Science](https://www.cl.cam.ac.uk/teaching/1998/FoundsCS/) - Dr Larry Paulson
 * [Principles of Model Checking](https://pdfs.semanticscholar.org/f126/9591359fddc20f95da10c7bd4c054080b447.pdf) - Christel Baier, Joost-Pieter Katoen
@@ -142,6 +140,7 @@ And I have decided to create a similar list but with [software testing books](/f
 ## In Russian
 
 #### Управление проектами
+
 * [Черная книга менеджера](http://www.stratoplan.ru/free/mbb/) ([pdf](http://labs.stratoplan.ru/wmbook-03-01/black_book.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/black_book.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/black_book.mobi)) Слава Панкратов
 * [Белая книжная полка менеджера](http://labs.stratoplan.ru/wmbook-03-01/) ([epub](http://labs.stratoplan.ru/wmbook-03-01/wmbook.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/wmbook.mobi), [zip](http://labs.stratoplan.ru/wmbook-03-01/wmbook.zip))
 * Как стать менеджером ([pdf](http://labs.stratoplan.ru/wmbook-03-01/it_manager.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/it_manager.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/it_manager.mobi)) - Слава Панкратов, Александр Орлов
@@ -149,6 +148,7 @@ And I have decided to create a similar list but with [software testing books](/f
 * [Гибкие методологии разработки](http://adm-lib.ru/books/10/Gibkie-metodologii.pdf) - Вольфсон Борис
 
 #### Тестирование ПО
+
 * [Test-Driven Development in Practice](https://github.com/risik/tdd-book) - Сергей Борисов
 * [Тестирование программного обеспечения. Базовый курс.](http://svyatoslav.biz/software_testing_book/) - Святослав Куликов
 * [Всё, что вам нужно знать о форматах отчётов в тестировании ПО](https://gist.github.com/ligurio/6efa8576e175fa0fb5d04cfe5c85a2a5) - Сергей Бронников
@@ -290,7 +290,7 @@ And I have decided to create a similar list but with [software testing books](/f
 * [Software Testing 103](http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-102v3.pdf)
 * [Тестирование ПО](http://kspt.icc.spbstu.ru/2014/course/software-testing)
 * Школа тестирования: [Ручное тестирование и Автоматизация тестирования](https://academy.yandex.ru/events/testing/spb-2016/) ([Youtube](https://www.youtube.com/playlist?list=PLJMRN_6MT0JYItlUeor7YRa0r6-lI8MMR))
-* [Тестирование на основе моделей](https://www.lektorium.tv/course/22774) ([слайды](http://panda.ispras.ru/~kuliamin/mbt-course.html), [слайды](http://compsciclub.ru/media/slides/modelbasedtesting_2010_spring/2010_04_25_modelbasedtesting_2010_spring_m98ClS2.pdf))
+* [Тестирование на основе моделей](https://www.lektorium.tv/course/22774) ([слайды](http://compsciclub.ru/media/slides/modelbasedtesting_2010_spring/2010_04_25_modelbasedtesting_2010_spring_m98ClS2.pdf))
 
 
 #### Формальная верификация ПО
