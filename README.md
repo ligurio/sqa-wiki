@@ -137,6 +137,7 @@ And I have decided to create a similar list but with [software testing books](/f
 * [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://github.com/paulmckrcu/perfbook/) (chapters "Validation" and "Formal verification") - Paul E. McKenney @paulmckrcu
+* [More books...](http://www.freetechbooks.com/index.php/formal-methods-f28.html)
 
 ## In Russian
 
