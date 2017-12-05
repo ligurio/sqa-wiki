@@ -360,7 +360,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [Static analysis](https://github.com/mre/awesome-static-analysis)
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap)
 - [Selenium](https://github.com/TheJambo/awesome-testing)
-
+- [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution)
 
 ### License
 
