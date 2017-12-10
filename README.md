@@ -311,7 +311,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Формальные методы обеспечения качества ПО](http://kspt.icc.spbstu.ru/2010/course/quality)
 * [Верификация программного обеспечения](http://www.intuit.ru/studies/courses/1040/209/info)
 * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
-
+* [Формальная спецификация и верификация программ](https://www.youtube.com/playlist?list=PLk5aZ4JAk_ZO32dammZRXxnSGhUSjOJzZ)
 
 # Workshops and interactive learning tools
 
