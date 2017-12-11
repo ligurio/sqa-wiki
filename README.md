@@ -361,6 +361,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap)
 - [Selenium](https://github.com/TheJambo/awesome-testing)
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution)
+- [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing)
 
 ### License
 
