@@ -364,6 +364,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution)
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq)
 - [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing)
+- [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 
 ### License
 
