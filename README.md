@@ -249,6 +249,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Tutorials and advanced lectures](http://www.cse.chalmers.se/research/group/logic/Types/tutorials.html)
 * [Types Project](http://www.cse.chalmers.se/research/group/logic/Types/index.html)
 * [Introduction to Formal Systems and Computation](https://itunes.apple.com/us/itunes-u/csci-e-207-introduction-to/id429428100?ign-mpt=uo%3D8)
+* [CSE 814 Formal Methods in Software Engineering ](https://cse.msu.edu/~cse814/) (slides)
 
 ##### Coq
 
