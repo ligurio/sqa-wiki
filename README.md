@@ -243,7 +243,7 @@ create a similar list with books, courses and podcasts about software quality.
 #### Formal Software Verification
 
 * [Formal Specification](http://www.macs.hw.ac.uk/~gabbay/F28FS/)
-* [Formal Software Verification](https://www.edx.org/course/formal-software-verification-usmx-university-maryland-university-stv1-3x)
+* [Formal Software Verification](https://www.edx.org/course/formal-software-verification-usmx-umuc-stv1-3x) and [Formal Software Verification (previous page of the course)](https://www.edx.org/course/formal-software-verification-usmx-university-maryland-university-stv1-3x)
 * [Logic, Languages, Compilation, and Verification](https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html) ([Youtube](https://www.youtube.com/user/nrolland/playlists))
 * [A survey of automated theorem proving](http://compsciclub.ru/en/courses/theoremproving/2013-autumn/)
 * [Tutorials and advanced lectures](http://www.cse.chalmers.se/research/group/logic/Types/tutorials.html)
