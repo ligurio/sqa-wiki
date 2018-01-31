@@ -76,6 +76,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Handbook of Software Reliability Engineering](http://www.cse.cuhk.edu.hk/~lyu/book/reliability/)
 * [Mutation Testing: Better Code by Making Bugs](https://leanpub.com/mutationtesting) - Filip van Laenen
 * [The Tao of Testing. A Field Manual for Software Engineers.](https://jasonpolites.github.io/tao-of-testing/index-1.1.html) - Jason Polites
+* [Observing and Reasoning About Errors](https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2017/09/Jerry-Weinberg-eBook-final-compressed-contents-page.pdf)
 
 #### Standards In software Testing
 
