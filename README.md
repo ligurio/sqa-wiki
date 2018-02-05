@@ -320,6 +320,7 @@ create a similar list with books, courses and podcasts about software quality.
 # Workshops and interactive learning tools
 
 - [Learn TLA](https://learntla.com/introduction/)
+- [tla_workshop](https://github.com/parlarjb/tla_workshop)
 - [test-anything](https://github.com/finnp/test-anything)
 - https://math-comp.github.io/mcb/
 - [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop)
