@@ -236,7 +236,7 @@ create a similar list with books, courses and podcasts about software quality.
 
 * [Software security](https://ru.coursera.org/learn/software-security)
 
-#### Perofrmance Testing
+#### Performance Testing
 
 * [Performance Engineering of Software Systems](https://www.youtube.com/playlist?list=PLD2AE32F507F10481&feature=plcp)
 * [LoadRunner Tutorials](https://www.youtube.com/playlist?list=PLFB7DB42D42A7C31C)
