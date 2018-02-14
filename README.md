@@ -43,7 +43,6 @@ create a similar list with books, courses and podcasts about software quality.
 * [Perspectives on Agile Software Testing](https://info.thoughtworks.com/ebook-agile-software-testing)
 * [A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops)
 * [Programs and Proofs. Mechanizing Mathematics with Dependent Types.](http://ilyasergey.net/pnp/) - Ilya Sergey @ilyasergey
-* [Software testing](http://www.rehancodes.com/files/ron-patton-software-testing-1st-edition.pdf) - Ron Patton
 * [Measure Software Quality using Application Security](https://github.com/DinisCruz/Book_Software_Quality/tree/master/content) (WIP) - Dinis Cruz
 * [The "A" Word](https://leanpub.com/TheAWord) - Alan Page
 * [Professional Software Development](http://mixmastamyk.bitbucket.org/pro_soft_dev/) (Chapter: "5. Software Quality") - Mike G. Miller
@@ -62,7 +61,6 @@ create a similar list with books, courses and podcasts about software quality.
 * [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
 * [Random testing book](https://github.com/regehr/random-testing-book) DRAFT
 * [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon
-* [Common System and Software Testing Pitfalls](https://www.infoq.com/resource/articles/common-testing-pitfalls/en/resources/Common-System-and-Software-Testing-Pitfalls-excerpt.pdf) - Donald G. Firesmith
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
 * [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf)
@@ -90,7 +88,6 @@ create a similar list with books, courses and podcasts about software quality.
 #### Testing of Free and OpenSource Software
 
 * [Quality Improvement in Volunteer Free and Open Source Software Project](http://www.cyrius.com/publications/michlmayr-phd.pdf) (PDF)
-* [Testing and quality management of free and open source software](https://github.com/ligurio/tos-book) (WIP) - Sergey Bronnikov
 
 #### Testing by different programming languages
 
@@ -98,7 +95,6 @@ create a similar list with books, courses and podcasts about software quality.
 * [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Testing Erlang](https://github.com/zkessin/testing-erlang-book)
 * [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book)
-* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 * [Test-Driven Development - Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript)
 * [Web Application Testing in Ruby](https://leanpub.com/watirbook/read) Željko Filipin
@@ -158,7 +154,6 @@ create a similar list with books, courses and podcasts about software quality.
 * [Белая книжная полка менеджера](http://labs.stratoplan.ru/wmbook-03-01/) ([epub](http://labs.stratoplan.ru/wmbook-03-01/wmbook.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/wmbook.mobi), [zip](http://labs.stratoplan.ru/wmbook-03-01/wmbook.zip))
 * Как стать менеджером ([pdf](http://labs.stratoplan.ru/wmbook-03-01/it_manager.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/it_manager.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/it_manager.mobi)) - Слава Панкратов, Александр Орлов
 * [It starts with a great product](https://www.intercom.com/books/product-management)
-* [Гибкие методологии разработки](http://adm-lib.ru/books/10/Gibkie-metodologii.pdf) - Вольфсон Борис
 
 #### Тестирование ПО
 
@@ -310,7 +305,7 @@ create a similar list with books, courses and podcasts about software quality.
 
 #### Формальная верификация ПО
 
-* [Верификация программ на моделях](http://savenkov.lvk.cs.msu.su/mc.html)
+* [Верификация программ на моделях](https://www.youtube.com/user/ksavenkov/playlists)
 * [Верификация параллельных и распределенных программных систем](https://www.lektorium.tv/course/22862?id=22862) ([PDF](http://is.ifmo.ru/present/2012/20120218_model_che%D1%81king_karpov_lecture01.pdf))
 * [Формальные методы обеспечения качества ПО](http://kspt.icc.spbstu.ru/2010/course/quality)
 * [Верификация программного обеспечения](http://www.intuit.ru/studies/courses/1040/209/info)
