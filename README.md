@@ -31,6 +31,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Podcasts](#podcasts)
 * [Conferences](#conferences)
 * [Workshops and interactive learning tools](#workshops-and-interactive-learning-tools)
+* [Learned lessons](#learned-lessons)
 * [Awesome lists](#awesome-lists)
 
 
@@ -187,6 +188,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Mathematical Logic](https://www.youtube.com/playlist?list=PL2EB5662A0D455A81&feature=plcp)
 * [Engineering Ethics](https://ocw.mit.edu/courses/engineering-systems-division/esd-932-engineering-ethics-spring-2006/audio-lectures/)
 * [Engineering Ethics](https://itunes.apple.com/us/course/engineering-ethics/id1039496124?ign-mpt=uo%3D8)
+* Software Development Process: [Part 1](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkNAtqsKcFkUGpf4j67NBaz), [Part 2](https://www.youtube.com/playlist?list=PLAwxTw4SYaPm8PAGH7ov2Bj-nG4sXgCtJ), [Part 3](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkoQFThzsc9e7Fe3QV_KJCs)
 
 
 #### Software Testing
@@ -352,6 +354,12 @@ create a similar list with books, courses and podcasts about software quality.
 * [CodingQA](http://codingqa.com/)
 * [The Ministry of Testing Podcast](https://dojo.ministryoftesting.com/series/podcast-series-ministry-of-testing)
 * [TDD in context](http://www.schmonz.com/tag/tdd-in-context/)
+
+# Learned lessons
+
+* [NASA Public Lessons Learned System](https://llis.nasa.gov/)
+* [Flight Software Engineering Lessons](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1671&context=amcis2009)
+* [Forum on Risks to the Public in Computers and Related Systems](http://catless.ncl.ac.uk/Risks/)
 
 # Awesome lists
 
