@@ -314,6 +314,9 @@ create a similar list with books, courses and podcasts about software quality.
 * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
 * [Формальная спецификация и верификация программ](https://www.youtube.com/playlist?list=PLk5aZ4JAk_ZO32dammZRXxnSGhUSjOJzZ)
 * [Теория соответствия для систем с блокировками и разрушением](http://panda.ispras.ru/~kuliamin/docs/ConfTheory-book-2008.pdf) - И.Б. Бурдонов, А.С. Косачев, В.В. Кулямин
+* [Введение в формальные методы верификации программ](http://sp.cs.msu.ru/courses/vmp/kamkin_mc2018.pdf) -- А.С. Камкин
+* [Методы верификации программного обеспечения](http://www.ict.edu.ru/ft/005645/62322e1-st09.pdf) -- В.В. Кулямин
+
 
 # Workshops and interactive learning tools
 
