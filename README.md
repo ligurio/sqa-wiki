@@ -332,6 +332,8 @@ create a similar list with books, courses and podcasts about software quality.
 - [Robot ON! A Program Understanding Game](http://www.sqrlab.ca/software/roboton/)
 - [FireFinder](http://www.sqrlab.ca/software/firefinder/)
 - [Threaded Paws: A Concurrency Game](http://www.sqrlab.ca/software/threadedpaws/)
+- [Verigames](http://verigames.com/)
+- [Edukera](https://www.edukera.com/)
 
 # Conferences
 
