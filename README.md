@@ -9,7 +9,7 @@ There is a list of [free programming
 ebooks](https://github.com/vhf/free-programming-books).  And I have decided to
 create a similar list with books, courses and podcasts about software quality.
 
-**[Subscribe](https://github.com/ligurio/free-software-testing-books/subscription) to receive notificatons.**
+**[Subscribe](https://github.com/ligurio/awesome-software-quality/subscription) to receive notificatons.**
 
 ### Testimonials
 
