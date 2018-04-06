@@ -147,6 +147,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://github.com/paulmckrcu/perfbook/) (chapters "Validation" and "Formal verification") - Paul E. McKenney @paulmckrcu
 * [More books...](http://www.freetechbooks.com/index.php/formal-methods-f28.html)
+* [Formal Methods of Software Design](https://www.cs.utoronto.ca/~hehner/FMSD/)
 
 ## In Russian
 
