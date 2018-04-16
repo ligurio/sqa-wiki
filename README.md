@@ -314,10 +314,10 @@ create a similar list with books, courses and podcasts about software quality.
 * [Формальные методы обеспечения качества ПО](http://kspt.icc.spbstu.ru/2010/course/quality)
 * [Верификация программного обеспечения](http://www.intuit.ru/studies/courses/1040/209/info)
 * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
-* [Формальная спецификация и верификация программ](https://www.youtube.com/playlist?list=PLk5aZ4JAk_ZO32dammZRXxnSGhUSjOJzZ)
 * [Теория соответствия для систем с блокировками и разрушением](http://panda.ispras.ru/~kuliamin/docs/ConfTheory-book-2008.pdf) - И.Б. Бурдонов, А.С. Косачев, В.В. Кулямин
 * [Введение в формальные методы верификации программ](http://sp.cs.msu.ru/courses/vmp/kamkin_mc2018.pdf) -- А.С. Камкин
 * [Методы верификации программного обеспечения](http://www.ict.edu.ru/ft/005645/62322e1-st09.pdf) -- В.В. Кулямин
+* [Формальная спецификация и верификация программ](https://www.youtube.com/playlist?list=PLk5aZ4JAk_ZO32dammZRXxnSGhUSjOJzZ) ([практикум](http://mfsp.cmc.msu.ru/w/wp-content/uploads/2015/07/Deductive-Verification-Practicum.pdf))
 
 
 # Workshops and interactive learning tools
