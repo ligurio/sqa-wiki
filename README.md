@@ -273,15 +273,15 @@ create a similar list with books, courses and podcasts about software quality.
 * [Advanced Topics in Software Verification](https://www.cse.unsw.edu.au/~cs4161/16s2/)
 * [Theorem Proving - Principles, Techniques, Applications](https://www.cse.unsw.edu.au/~kleing/teaching/thprv-04/index.html)
 
-##### TLA+
+##### Model Checking
 
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
 * [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus)
-
-##### Spin/PVS
-
 * [Theorem Proving and Model Checking in PVS](https://www.cs.cmu.edu/~emc/15-820A/) - Edmund M. Clarke
-
+* [System Validation: Automata and behavioural equivalences](https://www.coursera.org/learn/automata-system-validation)
+* [System Validation (2): Model process behaviour](https://www.coursera.org/learn/system-validation-behavior)
+* [System Validation (3): Requirements by modal formulas](https://www.coursera.org/learn/system-validation-modal-formulas)
+* [System Validation (4): Modelling Software, Protocols, and other behaviour](https://www.coursera.org/learn/system-validation-software-protocols)
 
 ## In Russian
 
