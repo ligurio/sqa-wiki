@@ -3,26 +3,16 @@
 [![Build Status](https://travis-ci.org/ligurio/awesome-software-quality.svg?branch=master)](https://travis-ci.org/ligurio/awesome-software-quality)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-### Intro
+### Introduction
 
-There is a list of [free programming
-ebooks](https://github.com/vhf/free-programming-books).  And I have decided to
-create a similar list with books, courses and podcasts about software quality.
+This page collects resources for anyone considering the use of software testing and formal methods. 
+
+There are many axes along which one can organize such a list, such as the level of expertise of the intended audience (from experts to the public at large) or disciplinary orientation (computer science, mathematics, mathematical logic, etc.). Here I have chosen to classify the material by type of subject matter.
+    
+If you would like add something, just send the text as you would like it to appear to estetus@gmail.com, preferrably already formatted in markdown.
 
 **[Subscribe](https://github.com/ligurio/awesome-software-quality/subscription) to receive notificatons.**
 
-### Testimonials
-
-- Alexander Todorov (Open source QA, Senior QA engineer at Red Hat):
-
-> There's [a huge list of free books on the topic of software testing](http://atodorov.org/blog/2015/05/20/free-software-testing-books/).
-> This will definitely be my summer reading list. I hope you find it helpful.
-
-- [Cambridge University](https://www.cambridge.org/core/journals/powder-diffraction/article/why-scientists-should-learn-to-program-in-python/EB88FFCC7384998768AFDAE219EF6EFA/core-reader)
-- [Stack Exchange](https://sqa.stackexchange.com/posts/22640/revisions)
-- [UTest](https://www.utest.com/status/11754): 
-
-> Just found this gold and feel like I have to share it with the best testing community: Free Books about Software Testing!
 
 ## Index
 
