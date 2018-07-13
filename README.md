@@ -383,6 +383,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems)
 - [A curated list of useful resources for AutoIt](https://github.com/J2TEAM/awesome-AutoIt)
+- [Resources for Teaching with Formal Methods](https://avigad.github.io/formal_methods_in_education/)
 
 ### License
 
