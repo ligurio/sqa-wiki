@@ -8,7 +8,7 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : List of Free Software Testing Resources
+title : Software Quality Resources
 author :
   name : Sergey Bronnikov
   email : estetus@gmail.com
