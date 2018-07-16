@@ -339,6 +339,7 @@ If you would like add something, just send the text as you would like it to appe
 
 #### English
 
+* [Test and Code](https://player.fm/series/series-1952312)
 * [Python Testing](http://pythontesting.net/)
 * [AB Testing](http://www.angryweasel.com/ABTesting/)
 * [Test Talks](https://joecolantonio.com/testtalks/)
