@@ -265,6 +265,7 @@ If you would like add something, just send the text as you would like it to appe
 
 ##### Model Checking
 
+* [Alloy Courses](http://alloytools.org/citations/courses.html)
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
 * [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus)
 * [Theorem Proving and Model Checking in PVS](https://www.cs.cmu.edu/~emc/15-820A/) - Edmund M. Clarke
