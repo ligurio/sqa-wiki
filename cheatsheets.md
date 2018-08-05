@@ -63,7 +63,7 @@
 - http://www.wi1.uni-muenster.de/pi/lehre/ws0809/fs/z-notation-en.pdf
 
 
-## Desgign Patterns
+## Design Patterns
 
 - En, [PDF](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf)
 - En, PNG [1](http://www.celinio.net/techblog/wp-content/uploads/2009/09/designpatterns1.jpg), [2](http://www.celinio.net/techblog/wp-content/uploads/2009/09/designpatterns2.jpg)
