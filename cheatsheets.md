@@ -61,3 +61,11 @@
 ## Z
 
 - http://www.wi1.uni-muenster.de/pi/lehre/ws0809/fs/z-notation-en.pdf
+
+
+## Desgign Patterns
+
+- En, [PDF](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf)
+- En, PNG [1](http://www.celinio.net/techblog/wp-content/uploads/2009/09/designpatterns1.jpg), [2](http://www.celinio.net/techblog/wp-content/uploads/2009/09/designpatterns2.jpg)
+- Ru, PNG [1](https://hsto.org/storage3/432/f5c/b4b/432f5cb4b5387312374fc36ba088f53e.png), [2](https://hsto.org/storage3/d8e/61e/396/d8e61e3961a76a749eb3b8bfe07c3bd7.png)
+- Ru, [PDF](https://yadi.sk/d/z_fHA-CfGjcRY)
