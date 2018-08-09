@@ -203,7 +203,7 @@ If you would like add something, just send the text as you would like it to appe
 * [QTP Training](https://www.youtube.com/playlist?list=PLF20D996D82993E79)
 * [Selenium Tutorials](https://www.guru99.com/selenium-tutorial.html)
 * [Selenium WebDriver Course](https://thefriendlytester.co.uk/selenium/course/)
-
+* [Software Testing](https://www.youtube.com/playlist?list=PL-_cKNuVAYAWZGuyAFu8TC9I41aJ3nHIf) - Mauro Pezz
 
 #### Fuzz testing
 
@@ -241,6 +241,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Types Project](http://www.cse.chalmers.se/research/group/logic/Types/index.html)
 * [Introduction to Formal Systems and Computation](https://itunes.apple.com/us/itunes-u/csci-e-207-introduction-to/id429428100?ign-mpt=uo%3D8)
 * [CSE 814 Formal Methods in Software Engineering ](https://cse.msu.edu/~cse814/) (slides)
+* [A survey of automated theorem proving](https://www.youtube.com/playlist?list=PL-_cKNuVAYAW9pBFvmGr37foLBDIRGxMi) - John Harrison
 
 ##### Coq
 
@@ -276,7 +277,7 @@ If you would like add something, just send the text as you would like it to appe
 
 ## In Russian
 
-* [Основы программной инженерии](https://compscicenter.ru/courses/seintro/2012-spring/)
+* [Основы программной инженерии](https://compscicenter.ru/courses/seintro/2012-spring/), [Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAWPPoDKwsZJcyOWmNiVPT4D) - Владимир Ицыксон
 * [Введение в программную инженерию](http://www.intuit.ru/studies/courses/497/353/info)
 * [Введение в технологию программирования](http://www.intuit.ru/studies/courses/2262/160/info)
 * [Юнит-тестирование и метрики покрытия кода тестами](https://www.lektorium.tv/lecture/13635)
@@ -295,13 +296,13 @@ If you would like add something, just send the text as you would like it to appe
 * [Software Testing 103](http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-102v3.pdf)
 * [Тестирование ПО](http://kspt.icc.spbstu.ru/2014/course/software-testing)
 * Школа тестирования: [Ручное тестирование и Автоматизация тестирования](https://academy.yandex.ru/events/testing/spb-2016/) ([Youtube](https://www.youtube.com/playlist?list=PLJMRN_6MT0JYItlUeor7YRa0r6-lI8MMR))
-* [Тестирование на основе моделей](https://www.lektorium.tv/course/22774) ([слайды](http://compsciclub.ru/media/slides/modelbasedtesting_2010_spring/2010_04_25_modelbasedtesting_2010_spring_m98ClS2.pdf))
-
+* [Тестирование на основе моделей](https://www.lektorium.tv/course/22774) ([слайды](http://compsciclub.ru/media/slides/modelbasedtesting_2010_spring/2010_04_25_modelbasedtesting_2010_spring_m98ClS2.pdf)), [Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAU1LAGzq5S0ARQjXs3TAY3K) - Кулямин Виктор
+* [Серия семинаров по тестированию (автоматизация)](https://www.youtube.com/playlist?list=PL-_cKNuVAYAV4VSQQK5AWMBImQ8kf6cnr) - Сергей Андреев
 
 #### Формальная верификация ПО
 
 * [Верификация программ на моделях](https://www.youtube.com/user/ksavenkov/playlists)
-* [Верификация параллельных и распределенных программных систем](https://www.lektorium.tv/course/22862?id=22862) ([PDF](http://is.ifmo.ru/present/2012/20120218_model_che%D1%81king_karpov_lecture01.pdf))
+* [Верификация параллельных и распределенных программных систем](https://www.lektorium.tv/course/22862?id=22862) ([PDF](http://is.ifmo.ru/present/2012/20120218_model_che%D1%81king_karpov_lecture01.pdf)), [Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAUw3pNeradNr8zwOXKQ1IZA) - Юрий Карпов
 * [Формальные методы обеспечения качества ПО](http://kspt.icc.spbstu.ru/2010/course/quality)
 * [Верификация программного обеспечения](http://www.intuit.ru/studies/courses/1040/209/info)
 * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
