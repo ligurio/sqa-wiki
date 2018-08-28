@@ -315,6 +315,11 @@ If you would like add something, just send the text as you would like it to appe
 
 # Workshops and interactive learning tools
 
+* [Anki: Software Testing](https://github.com/datateknik-lth/datateknik-lth/tree/master/ETS200-softwaretesting)
+* [Anki: Foundations of Software Testing - Glossary v.3.1](https://ankiweb.net/shared/info/834818027)
+* [Anki: ISTQB Glossary of Terms in Software testing](https://ankiweb.net/shared/info/837841315)
+* [Anki: Distributed Computing](https://ankiweb.net/shared/info/1688786699)
+* [Anki: Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
 - [Learn TLA](https://learntla.com/introduction/)
 - [tla_workshop](https://github.com/parlarjb/tla_workshop)
 - [test-anything](https://github.com/finnp/test-anything)
