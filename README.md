@@ -315,11 +315,20 @@ If you would like add something, just send the text as you would like it to appe
 
 # Workshops and interactive learning tools
 
-* [Anki: Software Testing](https://github.com/datateknik-lth/datateknik-lth/tree/master/ETS200-softwaretesting)
-* [Anki: Foundations of Software Testing - Glossary v.3.1](https://ankiweb.net/shared/info/834818027)
-* [Anki: ISTQB Glossary of Terms in Software testing](https://ankiweb.net/shared/info/837841315)
-* [Anki: Distributed Computing](https://ankiweb.net/shared/info/1688786699)
-* [Anki: Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
+- Anki:
+    - [Software Testing](https://github.com/datateknik-lth/datateknik-lth/tree/master/ETS200-softwaretesting)
+    - [Foundations of Software Testing - Glossary](https://ankiweb.net/shared/info/834818027)
+    - [ISTQB Glossary of Terms in Software testing](https://ankiweb.net/shared/info/837841315)
+    - [Coding and Design](https://github.com/donnemartin/interactive-coding-challenges/tree/master/anki_cards)
+    - [Design Patterns](https://ankiweb.net/shared/info/701549605)
+    - [Object Oriented Design Patterns](https://ankiweb.net/shared/info/1202033519)
+    - [Regular Expressions](https://ankiweb.net/shared/info/1355137499)
+    - [106 Linux Commands](https://ankiweb.net/shared/info/142660396)
+    - [Bash Command Line For Linux](https://ankiweb.net/shared/info/1950743421)
+    - [LPIC 101 and 102](https://ankiweb.net/shared/info/1818363239)
+    - [SQL basics](https://ankiweb.net/shared/info/40406665)
+    - [Distributed Computing](https://ankiweb.net/shared/info/1688786699)
+    - [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
 - [Learn TLA](https://learntla.com/introduction/)
 - [tla_workshop](https://github.com/parlarjb/tla_workshop)
 - [test-anything](https://github.com/finnp/test-anything)
