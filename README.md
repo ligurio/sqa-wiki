@@ -384,6 +384,7 @@ If you would like add something, just send the text as you would like it to appe
 - [Static analysis](https://github.com/mre/awesome-static-analysis)
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap)
 - [Selenium](https://github.com/TheJambo/awesome-testing)
+- [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution)
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq)
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable)
@@ -392,6 +393,8 @@ If you would like add something, just send the text as you would like it to appe
 - [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems)
 - [A curated list of useful resources for AutoIt](https://github.com/J2TEAM/awesome-AutoIt)
 - [Resources for Teaching with Formal Methods](https://avigad.github.io/formal_methods_in_education/)
+- [SecLists] - collection of multiple types of lists used during security assessments, collected in one place.
+
 
 ### License
 
