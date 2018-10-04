@@ -394,7 +394,7 @@ If you would like add something, just send the text as you would like it to appe
 - [A curated list of useful resources for AutoIt](https://github.com/J2TEAM/awesome-AutoIt)
 - [Resources for Teaching with Formal Methods](https://avigad.github.io/formal_methods_in_education/)
 - [SecLists](https://github.com/danielmiessler/SecLists) - collection of multiple types of lists used during security assessments, collected in one place.
-
+- [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
 
 ### License
 
