@@ -372,13 +372,16 @@ If you would like add something, just send the text as you would like it to appe
 * [The Ministry of Testing Podcast](https://dojo.ministryoftesting.com/series/podcast-series-ministry-of-testing)
 * [TDD in context](http://www.schmonz.com/tag/tdd-in-context/)
 
-# Learned lessons
+# Bugs and Learned Lessons
 
 * [NASA Public Lessons Learned System](https://llis.nasa.gov/)
 * [Flight Software Engineering Lessons](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1671&context=amcis2009)
 * [Forum on Risks to the Public in Computers and Related Systems](http://catless.ncl.ac.uk/Risks/)
+* [CPU Bugs](https://wiki.osdev.org/CPU_Bugs)
+* [Illustrative Risks to the Public in the Use of Computer Systems and Related Technology](http://www.csl.sri.com/users/neumann/illustrative.html)
+* [Wikipedia: List of software bugs](https://en.wikipedia.org/wiki/List_of_software_bugs)
 
-# Awesome lists
+# Awesome Lists
 
 - [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing)
 - [Mutation testing](https://github.com/theofidry/mutation-testing)
