@@ -355,6 +355,7 @@ If you would like add something, just send the text as you would like it to appe
 #### Russian
 
 * [Radio QA](http://radio-qa.com/)
+* [QAGuild](http://automation-remarks.com/podcast/)
 
 #### English
 
