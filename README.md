@@ -242,7 +242,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Tutorials and advanced lectures](http://www.cse.chalmers.se/research/group/logic/Types/tutorials.html)
 * [Types Project](http://www.cse.chalmers.se/research/group/logic/Types/index.html)
 * [Introduction to Formal Systems and Computation](https://itunes.apple.com/us/itunes-u/csci-e-207-introduction-to/id429428100?ign-mpt=uo%3D8)
-* [CSE 814 Formal Methods in Software Engineering ](https://cse.msu.edu/~cse814/) (slides)
+* [CSE 814 Formal Methods in Software Engineering ](https://cse.msu.edu/~cse814/) ```Slides```
 * [A survey of automated theorem proving](https://www.youtube.com/playlist?list=PL-_cKNuVAYAW9pBFvmGr37foLBDIRGxMi) - John Harrison
 
 ##### Coq
@@ -265,6 +265,10 @@ If you would like add something, just send the text as you would like it to appe
 
 * [Advanced Topics in Software Verification](https://www.cse.unsw.edu.au/~cs4161/16s2/)
 * [Theorem Proving - Principles, Techniques, Applications](https://www.cse.unsw.edu.au/~kleing/teaching/thprv-04/index.html)
+
+##### Agda
+
+* [Programming Language Foundations in Agda](https://plfa.github.io/) ```Book```
 
 ##### Model Checking
 
