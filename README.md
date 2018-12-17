@@ -396,6 +396,7 @@ If you would like add something, just send the text as you would like it to appe
 - [Selenium](https://github.com/TheJambo/awesome-testing)
 - [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution)
+- [History of symbolic execution](https://github.com/enzet/symbolic-execution)
 - [Coq Proof Assistant](https://github.com/uhub/awesome-coq)
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable)
 - [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing)
