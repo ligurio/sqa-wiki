@@ -388,6 +388,7 @@ If you would like add something, just send the text as you would like it to appe
 
 # Awesome Lists
 
+- [Resources for Teaching with Formal Methods](https://avigad.github.io/formal_methods_in_education/)
 - [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing)
 - [Mutation testing](https://github.com/theofidry/mutation-testing)
 - [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
