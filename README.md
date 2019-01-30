@@ -394,7 +394,7 @@ If you would like add something, just send the text as you would like it to appe
 - [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 - [Static analysis](https://github.com/mre/awesome-static-analysis)
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap)
-- [Selenium](https://github.com/TheJambo/awesome-testing)
+- [Awesome Testing](https://github.com/TheJambo/awesome-testing)
 - [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution)
 - [History of symbolic execution](https://github.com/enzet/symbolic-execution)
