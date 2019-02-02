@@ -55,7 +55,6 @@ If you would like add something, just send the text as you would like it to appe
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
 * [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf)
-* [The Littleblack Book On Test Design](http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) (PDF)
 * [The Essential Guide to Mobile App Testing](http://core.ecu.edu/STRG/materials/uTest_eBook_Mobile_Testing.pdf) (PDF)
 * [UI and UX Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/ui_and_ux_testing_ready_reckoner.pdf) (PDF) - Ajay Balamurugadas
 * [What If: A collection of tips from a software tester](http://enjoytesting.files.wordpress.com/2013/10/whatif.pdf) (PDF) - Ajay Balamurugadas
