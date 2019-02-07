@@ -130,7 +130,6 @@ If you would like add something, just send the text as you would like it to appe
 * [ML for the Working Programmer, 2nd Edition](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html) - Lawrence C. Paulson
 * [Proofs and Types](http://www.paultaylor.eu/stable/Proofs+Types.html) - Jean-Yves Girard, Yves Lafont and Paul Taylor
 * [Proof assistants: History, ideas and future](http://www.ias.ac.in/article/fulltext/sadh/034/01/0003-0025) - H. Geuvers
-* [Design and validation of computer protocols](http://cdn.worldcolleges.info/sites/default/files/x20v_1991.pdf) - Gerard J. Holzmann
 * [Introduction to Logic](http://logic.stanford.edu/intrologic/secondary/index.html) - Michael Genesereth, Eric Kao (Stanford University)
 * [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) - P.D. Magnus (University at Albany)
 * [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk (Trent University)
