@@ -284,6 +284,7 @@ If you would like add something, just send the text as you would like it to appe
 ## In Russian
 
 * [Основы программной инженерии](https://compscicenter.ru/courses/seintro/2012-spring/), [Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAWPPoDKwsZJcyOWmNiVPT4D) - Владимир Ицыксон
+- [Основы программной инженерии (SWEBOK 2004 на русском) в EPUB и HTML](https://github.com/ligurio/swebok-ru)
 * [Введение в программную инженерию](http://www.intuit.ru/studies/courses/497/353/info)
 * [Введение в технологию программирования](http://www.intuit.ru/studies/courses/2262/160/info)
 * [Юнит-тестирование и метрики покрытия кода тестами](https://www.lektorium.tv/lecture/13635)
