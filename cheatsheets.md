@@ -3,6 +3,10 @@
 - https://gist.github.com/huangzhichong/3284966
 - http://akul.me/blog/2016/selenium-cheatsheet/
 
+## XPath
+
+- https://gist.github.com/LeCoupa/8c305ec8c713aad07b14
+
 ## PyTest
 
 - https://gist.github.com/kwmiebach/3fd49612ef7a52b5ce3a
