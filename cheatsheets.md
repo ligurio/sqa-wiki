@@ -15,6 +15,10 @@
 
 - https://www.stevefenton.co.uk/cmsfiles/assets/file/Performance-Testing-Cheat-Sheet.pdf
 
+## QuickCheck
+
+- http://www.cse.chalmers.se/edu/year/2013/course/DAT260/files/QuickCheck-CS.pdf
+
 ## Unit testing
 
 - http://www.aheil.de/2010/11/05/test-driven-development-cheatsheet/
