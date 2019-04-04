@@ -80,6 +80,9 @@ If you would like add something, just send the text as you would like it to appe
 * [Everything You Need to Know About Software Test Formats](https://dou.ua/lenta/articles/software-test-formats/) (in Russian)
 * [Software Testing Standards in NASA](http://www.system-safety.org/Documents/NASA-GB-8719.13.pdf)
 * [ECSS-Q-ST-80C Rev.1 – Software product assurance](http://ecss.nl/standard/ecss-q-st-80c-rev-1-software-product-assurance-15-february-2017/)
+* [СИСТЕМНАЯ И ПРОГРАММНАЯ ИНЖЕНЕРИЯ: ГОСТ Р 56922—2016/ISO/IEC/IEEE 29119- 3:2013](https://pdf.standartgost.ru/catalog/Data2/1/4293754/4293754866.pdf)
+* DO-278
+* [DO-178B](https://en.wikipedia.org/wiki/DO-178B)
 
 #### Testing of Free and OpenSource Software
 
