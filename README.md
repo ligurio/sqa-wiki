@@ -23,7 +23,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Podcasts](#podcasts)
 * [Conferences](#conferences)
 * [Workshops and interactive learning tools](#workshops-and-interactive-learning-tools)
-* [Learned lessons](#learned-lessons)
+* [Learned lessons](#bugs-and-learned-lessons)
 * [Awesome lists](#awesome-lists)
 
 
