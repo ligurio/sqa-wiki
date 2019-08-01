@@ -275,6 +275,7 @@ If you would like add something, just send the text as you would like it to appe
 
 ##### Model Checking
 
+* SPIN/Promela [Model Checking Concurrent Programs](http://cnx.org/content/col10294/1.3)
 * [Software Verification](https://www.youtube.com/playlist?list=PL-_cKNuVAYAUsh0QIh_zd58V4Ekmer23D) - Natasha Sharygina
 * [Alloy Courses](http://alloytools.org/citations/courses.html)
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
