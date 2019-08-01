@@ -168,7 +168,6 @@ If you would like add something, just send the text as you would like it to appe
 
 * [Верификация программ методом Model Checking](http://intsys.msu.ru/staff/mironov/modelchk.pdf) - А.М.Миронов
 * http://is.ifmo.ru/verification/
-* [Тестирование на основе моделей](http://panda.ispras.ru/~kuliamin/mbt-course.html) - В.В. Кулямин
 * [Практикум по математической логике. Coq.](http://www.mi.ras.ru/~sk/lehre/coq/coq_pract.pdf)
 
 # Courses
@@ -318,9 +317,8 @@ If you would like add something, just send the text as you would like it to appe
 * [Формальные методы обеспечения качества ПО](http://kspt.icc.spbstu.ru/2010/course/quality)
 * [Верификация программного обеспечения](http://www.intuit.ru/studies/courses/1040/209/info)
 * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
-* [Теория соответствия для систем с блокировками и разрушением](http://panda.ispras.ru/~kuliamin/docs/ConfTheory-book-2008.pdf) - И.Б. Бурдонов, А.С. Косачев, В.В. Кулямин
 * [Введение в формальные методы верификации программ](http://sp.cs.msu.ru/courses/vmp/kamkin_mc2018.pdf) -- А.С. Камкин
-* [Методы верификации программного обеспечения](http://www.ict.edu.ru/ft/005645/62322e1-st09.pdf) -- В.В. Кулямин
+* [Методы верификации программного обеспечения](https://www.ispras.ru/publications/2008/methods_of_software_verification/) -- В.В. Кулямин
 * [Формальная спецификация и верификация программ](https://www.youtube.com/playlist?list=PLk5aZ4JAk_ZO32dammZRXxnSGhUSjOJzZ) ([практикум](http://mfsp.cmc.msu.ru/w/wp-content/uploads/2015/07/Deductive-Verification-Practicum.pdf))
 
 
