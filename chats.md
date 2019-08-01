@@ -29,6 +29,7 @@
 | Russian  | Telegram  | @tugoserit	        | |
 | Russian  | Telegram  | @radioqa		| Канал подкаста RadioQA |
 | Russian  | Telegram  | [QA alliance](https://t.me/joinchat/AAAAAD-Bi62HiQjEQ9FIqA) | |
+| Russian  | Telegram  | @qa_siberia | Сообщество тестировщиков Сибири |
 |          | Slack     | https://softwaretesters.slack.com/		| |
 |          | Slack     | https://ministryoftesting.slack.com/		| |
 |          | Slack     | https://testersio.signup.team/			| |

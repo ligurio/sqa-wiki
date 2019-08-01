@@ -59,6 +59,7 @@
 ## TTCN-3
 
 - [Quick Reference Card for TTCN-3 V4.10.1](http://www.blukaktus.com/card.html)
+- [TTCN-3 Quick Reference Card](http://www.cheat-sheets.org/saved-copy/TTCN3QRC_viewme.pdf)
 
 ## Z
 

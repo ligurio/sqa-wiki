@@ -23,7 +23,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Podcasts](#podcasts)
 * [Conferences](#conferences)
 * [Workshops and interactive learning tools](#workshops-and-interactive-learning-tools)
-* [Learned lessons](#learned-lessons)
+* [Learned lessons](#bugs-and-learned-lessons)
 * [Awesome lists](#awesome-lists)
 
 
@@ -274,6 +274,7 @@ If you would like add something, just send the text as you would like it to appe
 
 ##### Model Checking
 
+* SPIN/Promela [Model Checking Concurrent Programs](http://cnx.org/content/col10294/1.3)
 * [Software Verification](https://www.youtube.com/playlist?list=PL-_cKNuVAYAUsh0QIh_zd58V4Ekmer23D) - Natasha Sharygina
 * [Alloy Courses](http://alloytools.org/citations/courses.html)
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
@@ -338,6 +339,8 @@ If you would like add something, just send the text as you would like it to appe
     - [SQL basics](https://ankiweb.net/shared/info/40406665)
     - [Distributed Computing](https://ankiweb.net/shared/info/1688786699)
     - [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
+- [Testing Mnemonics Game](http://mnemonics.brainforit.com/)
+- [The Deadlock Empire: Slay dragons, learn concurrency!](https://deadlockempire.github.io)
 - [Learn TLA](https://learntla.com/introduction/)
 - [tla_workshop](https://github.com/parlarjb/tla_workshop)
 - [test-anything](https://github.com/finnp/test-anything)
@@ -369,6 +372,7 @@ see [podcasts](podcasts.md)
 * [CPU Bugs](https://wiki.osdev.org/CPU_Bugs)
 * [Illustrative Risks to the Public in the Use of Computer Systems and Related Technology](http://www.csl.sri.com/users/neumann/illustrative.html)
 * [Wikipedia: List of software bugs](https://en.wikipedia.org/wiki/List_of_software_bugs)
+* [Postmortems](https://github.com/danluu/post-mortems)
 
 # Awesome Lists
 
