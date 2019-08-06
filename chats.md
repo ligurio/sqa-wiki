@@ -3,7 +3,7 @@
 | Russian  | Telegram  | [@sqaunderhood](https://t.me/sqaunderhood) | Фильтрованный контент о тестировании и качестве ПО |
 | Russian  | Telegram  | @qa_ru			| Чат российских тестировщиков |
 | Russian  | Telegram  | @qa_ua			| Чат украинских тестировщиков |
-| Russian  | Telegram  | [@UTCNews](https://t.me/UTCNews) | Канал уральских тестировщиков |
+| Russian  | Telegram  | @UTCNews   | Канал уральских тестировщиков |
 | Russian  | Telegram  | [@qa_embedded](https://t.me/qa_embedded) | Тестирование встраиваемого ПО |
 | Russian  | Telegram  | @qa_channel		| |
 | Russian  | Telegram  | @qajuniors		| Вопросы от новичков | 
