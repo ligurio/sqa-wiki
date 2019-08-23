@@ -6,6 +6,7 @@
 | Russian  | Telegram  | @UTCNews   | Канал уральских тестировщиков |
 | Russian  | Telegram  | [@qa_embedded](https://t.me/qa_embedded) | Тестирование встраиваемого ПО |
 | Russian  | Telegram  | @qa_channel		| |
+| Russian  | Telegram  | @qa_load     | Обсуждение нагрузочного тестирования и тестирования производительности
 | Russian  | Telegram  | @qajuniors		| Вопросы от новичков | 
 | Russian  | Telegram  | @qa_fin		| |
 | Russian  | Telegram  | @qaevents		| Обсуждения и анонсы событий |
