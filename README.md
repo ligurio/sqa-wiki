@@ -361,7 +361,7 @@ If you would like add something, just send the text as you would like it to appe
 - [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop)
 - [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
 - [Interactive Z3 Guide](https://rise4fun.com/z3/tutorial/guide)
-- [Code-defenders game (mutation testing)](http://code-defenders.org/login)
+- [Code-defenders game (mutation testing)](http://code-defenders.org/)
 - [RoboBUG: A Debugging Game](http://www.sqrlab.ca/software/robobug/)
 - [Robot ON! A Program Understanding Game](http://www.sqrlab.ca/software/roboton/)
 - [FireFinder](http://www.sqrlab.ca/software/firefinder/)
