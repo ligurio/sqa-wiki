@@ -394,6 +394,7 @@ see [podcasts](podcasts.md)
 - [A curated list of useful resources for AutoIt](https://github.com/J2TEAM/awesome-AutoIt)
 - [SecLists](https://github.com/danielmiessler/SecLists) - collection of multiple types of lists used during security assessments, collected in one place.
 - [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
+- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter)
 
 ### License
 
