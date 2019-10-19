@@ -71,6 +71,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Generating Software Tests. Breaking Software for Fun and Profit.](https://www.fuzzingbook.org/) -- by Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler
 * [Software Testing and Analysis: Process, Principles, and Techniques](http://ix.cs.uoregon.edu/~michal/book/Samples/book.pdf) -- Mauro Pezze, Michal Young ([slides](http://ix.cs.uoregon.edu/~michal/book/))
 * [Software Testing Glossary](https://testitquickly.com/2016/12/14/software-testing-glossary/)
+* [Quality Assistance](https://www.atlassian.com/inside-atlassian/quality-assurance-vs-quality-assistance) and [here](https://amaysim.engineering/from-quality-assurance-to-quality-assistance-32ffc990d27b) and for [youtube](https://youtu.be/9giJYYag6wQ)
 
 #### Standards In software Testing
 
@@ -185,7 +186,19 @@ If you would like add something, just send the text as you would like it to appe
 * [Engineering Ethics](https://ocw.mit.edu/courses/engineering-systems-division/esd-932-engineering-ethics-spring-2006/audio-lectures/)
 * [Engineering Ethics](https://itunes.apple.com/us/course/engineering-ethics/id1039496124?ign-mpt=uo%3D8)
 * Software Development Process: [Part 1](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkNAtqsKcFkUGpf4j67NBaz), [Part 2](https://www.youtube.com/playlist?list=PLAwxTw4SYaPm8PAGH7ov2Bj-nG4sXgCtJ), [Part 3](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkoQFThzsc9e7Fe3QV_KJCs)
-
+* [Test Automation Universities](https://testautomationu.applitools.com/) (free)
+    - [Java Web UI Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-java-path)
+    - [Java API Path](https://testautomationu.applitools.com/learningpaths.html?id=api-java-path)
+    - [Java Mobile Path](https://testautomationu.applitools.com/learningpaths.html?id=mobile-java-path)
+    - [JavaScript Web UI Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-javascript-path)
+    - [JavaScript API Path](https://testautomationu.applitools.com/learningpaths.html?id=api-javascript-path)
+    - [JavaScript Mobile Path](https://testautomationu.applitools.com/learningpaths.html?id=mobile-javascript-path)
+    - [Python Web UI Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-python-path)
+    - [Python Mobile Path](https://testautomationu.applitools.com/learningpaths.html?id=mobile-python-path)
+    - [C# Web UI Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-csharp-path)
+    - [Ruby Web UI Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-ruby-path)
+    - [Swift Mobile Path](https://testautomationu.applitools.com/learningpaths.html?id=mobile-swift-path)
+    - [Codeless Path](https://testautomationu.applitools.com/learningpaths.html?id=codeless-path)
 
 #### Software Testing
 
@@ -348,7 +361,7 @@ If you would like add something, just send the text as you would like it to appe
 - [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop)
 - [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
 - [Interactive Z3 Guide](https://rise4fun.com/z3/tutorial/guide)
-- [Code-defenders game (mutation testing)](http://code-defenders.org/login)
+- [Code-defenders game (mutation testing)](http://code-defenders.org/)
 - [RoboBUG: A Debugging Game](http://www.sqrlab.ca/software/robobug/)
 - [Robot ON! A Program Understanding Game](http://www.sqrlab.ca/software/roboton/)
 - [FireFinder](http://www.sqrlab.ca/software/firefinder/)
