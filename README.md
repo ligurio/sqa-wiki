@@ -168,7 +168,6 @@ If you would like add something, just send the text as you would like it to appe
 #### Формальные методы
 
 * [Верификация программ методом Model Checking](http://intsys.msu.ru/staff/mironov/modelchk.pdf) - А.М.Миронов
-* http://is.ifmo.ru/verification/
 * [Практикум по математической логике. Coq.](http://www.mi.ras.ru/~sk/lehre/coq/coq_pract.pdf)
 
 # Courses
@@ -263,8 +262,6 @@ If you would like add something, just send the text as you would like it to appe
 ##### Coq
 
 * [Coq in a Hurry](https://cel.archives-ouvertes.fr/file/index/docid/72365/filename/coq-hurry.pdf)
-* [Programs and Proofs in the Coq Proof Assistant](https://www.cis.upenn.edu/~rrand/popl_2016/)
-* [An Introduction to the Coq Proof Assistant](https://www.cis.upenn.edu/~rrand/cufp_2015/)
 * [Introduction to the Coq Proof Assistant](https://video.ias.edu/univalent/appel)
 * [Coq Intensive](https://www.youtube.com/playlist?list=PLovJjGVqXXf3RgVdCXH96pPwSjFLDhSri) - DeepSpec Summer School
 * [Interactive Computer Theorem Proving](http://adam.chlipala.net/itp/)
@@ -327,7 +324,7 @@ If you would like add something, just send the text as you would like it to appe
 #### Формальная верификация ПО
 
 * [Верификация программ на моделях](https://www.youtube.com/user/ksavenkov/playlists)
-* [Верификация параллельных и распределенных программных систем](https://www.lektorium.tv/course/22862?id=22862) ([PDF](http://is.ifmo.ru/present/2012/20120218_model_che%D1%81king_karpov_lecture01.pdf)), [Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAUw3pNeradNr8zwOXKQ1IZA) - Юрий Карпов
+* [Верификация параллельных и распределенных программных систем](https://www.lektorium.tv/course/22862?id=22862) ([Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAUw3pNeradNr8zwOXKQ1IZA) - Юрий Карпов
 * [Формальные методы обеспечения качества ПО](http://kspt.icc.spbstu.ru/2010/course/quality)
 * [Верификация программного обеспечения](http://www.intuit.ru/studies/courses/1040/209/info)
 * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
