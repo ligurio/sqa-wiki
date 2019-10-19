@@ -383,10 +383,8 @@ see [podcasts](podcasts.md)
 - [Static analysis](https://github.com/mre/awesome-static-analysis)
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap)
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing)
-- [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution)
 - [History of symbolic execution](https://github.com/enzet/symbolic-execution)
-- [Coq Proof Assistant](https://github.com/uhub/awesome-coq)
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable)
 - [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing)
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
@@ -394,6 +392,10 @@ see [podcasts](podcasts.md)
 - [A curated list of useful resources for AutoIt](https://github.com/J2TEAM/awesome-AutoIt)
 - [SecLists](https://github.com/danielmiessler/SecLists) - collection of multiple types of lists used during security assessments, collected in one place.
 - [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
+- [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung)
+- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter)
+- [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
+- [Awesome Coq](https://github.com/uhub/awesome-coq)
 
 ### License
 
