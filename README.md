@@ -402,14 +402,14 @@ see [podcasts](podcasts.md)
 - [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing)
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems)
-- [A curated list of useful resources for AutoIt](https://github.com/J2TEAM/awesome-AutoIt)
 - [SecLists](https://github.com/danielmiessler/SecLists) - collection of multiple types of lists used during security assessments, collected in one place.
 - [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
+- [Awesome Appium](https://github.com/SrinivasanTarget/awesome-appium#readme)
+- [Awesome AutoIt](https://github.com/J2TEAM/awesome-AutoIt)
+- [Awesome Coq](https://github.com/uhub/awesome-coq)
+- [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung)
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter)
-- [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
-- [Awesome Coq](https://github.com/uhub/awesome-coq)
-- [Awesome Appium](https://github.com/SrinivasanTarget/awesome-appium#readme)
 
 ### License
 
