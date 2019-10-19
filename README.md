@@ -390,7 +390,7 @@ see [podcasts](podcasts.md)
 # Awesome Lists
 
 - [Resources for Teaching with Formal Methods](https://avigad.github.io/formal_methods_in_education/)
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing)
+- Fuzzing testing by [secfigo](https://github.com/secfigo/Awesome-Fuzzing) and by [cpuu](https://github.com/cpuu/awesome-fuzzing)
 - [Mutation testing](https://github.com/theofidry/mutation-testing)
 - [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 - [Static analysis](https://github.com/mre/awesome-static-analysis)
@@ -409,6 +409,7 @@ see [podcasts](podcasts.md)
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter)
 - [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Awesome Coq](https://github.com/uhub/awesome-coq)
+- [Awesome Appium](https://github.com/SrinivasanTarget/awesome-appium#readme)
 
 ### License
 
