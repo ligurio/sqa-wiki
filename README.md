@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/ligurio/awesome-software-quality.svg?branch=master)](https://travis-ci.org/ligurio/awesome-software-quality)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![sqaunderhood](https://i.imgur.com/HlL3cB2.jpg)](https://t.me/sqaunderhood)<h3>Telegram: <a href="https://t.me/sqaunderhood">t.me/sqaunderhood</a></h3>
+**Join chat [t.me/sqaunderhood](https://t.me/sqaunderhood) and [subscribe](https://github.com/ligurio/awesome-software-quality/subscription) to receive notificatons with updates.**
 
 ### Introduction
 
@@ -12,9 +12,6 @@ This page collects resources for anyone considering the use of software testing 
 There are many axes along which one can organize such a list, such as the level of expertise of the intended audience (from experts to the public at large) or disciplinary orientation (computer science, mathematics, mathematical logic, etc.). Here I have chosen to classify the material by type of subject matter.
     
 If you would like add something, just send the text as you would like it to appear to estetus@gmail.com, preferrably already formatted in markdown.
-
-**[Subscribe](https://github.com/ligurio/awesome-software-quality/subscription) to receive notificatons.**
-
 
 ## Index
 
