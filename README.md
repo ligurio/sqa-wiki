@@ -395,6 +395,7 @@ see [podcasts](podcasts.md)
 - [History of symbolic execution](https://github.com/enzet/symbolic-execution)
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable)
 - [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing)
+- [UI Automation Tools](https://github.com/pywinauto/pywinauto/wiki/UI-Automation-tools-ratings)
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems)
 - [SecLists](https://github.com/danielmiessler/SecLists) - collection of multiple types of lists used during security assessments, collected in one place.
@@ -405,7 +406,6 @@ see [podcasts](podcasts.md)
 - [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung)
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter)
-- [UI Automation Tools](https://github.com/pywinauto/pywinauto/wiki/UI-Automation-tools-ratings)
 
 ### License
 
