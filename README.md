@@ -329,7 +329,8 @@ If you would like add something, just send the text as you would like it to appe
 * [Введение в формальные методы верификации программ](http://sp.cs.msu.ru/courses/vmp/kamkin_mc2018.pdf) -- А.С. Камкин
 * [Методы верификации программного обеспечения](https://www.ispras.ru/publications/2008/methods_of_software_verification/) -- В.В. Кулямин
 * [Формальная спецификация и верификация программ](https://www.youtube.com/playlist?list=PLk5aZ4JAk_ZO32dammZRXxnSGhUSjOJzZ) ([практикум](http://mfsp.cmc.msu.ru/w/wp-content/uploads/2015/07/Deductive-Verification-Practicum.pdf))
-
+* [Введение в язык формальной верификации Coq](https://compsciclub.ru/courses/intro-to-coq/2019-autumn/about/) - Антон Трунов
+* [Введение в верификацию программ](https://www.youtube.com/playlist?list=PLQ-XJe6nVU5BwX1gV80aDhwW0Jt3tipIY) - Антон Трунов (спецкурс для МФТИ)
 
 # Workshops and interactive learning tools
 
