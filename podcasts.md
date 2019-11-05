@@ -4,6 +4,7 @@
 
 * [Radio QA](http://radio-qa.com/)
 * [QAGuild](http://automation-remarks.com/podcast/)
+* [Podlodka Podcast](http://podlodka.io/)
 
 #### In English
 
