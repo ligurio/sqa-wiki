@@ -113,6 +113,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Better Unit Testing with Microsoft Fakes](https://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#Better_Unit_Testing_with_Microsoft_Fakes)
 * [Testing for Continuous Delivery with Visual Studio 2012](https://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#Testing_for_Continuous_Delivery)
 * [Testing mypy stubs, plugins, and types](https://sobolevn.me/2019/08/testing-mypy-types) - Nikita Sobolev
+* [Testing Django Migrations](https://sobolevn.me/2019/10/testing-django-migrations) - Nikita Sobolev
 
 #### Formal methods
 
