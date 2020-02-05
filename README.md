@@ -304,6 +304,8 @@ If you would like add something, just send the text as you would like it to appe
 
 #### Тестирование ПО
 
+* [Основы тестирования ПО от СКБ Контур](https://ulearn.me/Course/Testing/)
+* [Software Testing - Base Course](https://learn.by/courses/course-v1:EPAM+STI+ext/) - курс Святослава Куликова в ЕПАМ Svyatoslav Kulikov и [книга](http://svyatoslav.biz/software_testing_book/)
 * [Основы тестирования программного обеспечения](http://universarium.org/course/526)
 * [Основы тестирования ПО](https://itvdn.com/ru/video/testing-process)
 * [Основы тестирования программного обеспечения](http://www.intuit.ru/studies/courses/48/48/info)
