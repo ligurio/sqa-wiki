@@ -410,6 +410,7 @@ If you would like add something, just send the text as you would like it to appe
 - [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung)
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter)
+- [Awesome test automation frameworks, tools, libraries, and software for different programming languages](https://github.com/atinfo/awesome-test-automation)
 
 ### License
 
