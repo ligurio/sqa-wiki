@@ -39,6 +39,10 @@ If you would like add something, just send the text as you would like it to appe
 
 #### Software Testing Theory
 
+* [101 TDD Tips](http://www.codemanship.co.uk/files/101TddTips.pdf)
+* [Test Driven Development](http://www.codemanship.co.uk/tdd_jasongorman_codemanship.pdf)
+* ["UI Testing Best Practices"](https://github.com/NoriSte/ui-testing-best-practices)
+* [Software Testing: From Theory to Practice](https://sttp.site/)
 * [Perspectives on Agile Software Testing](https://info.thoughtworks.com/ebook-agile-software-testing)
 * [A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops)
 * [Programs and Proofs. Mechanizing Mathematics with Dependent Types.](http://ilyasergey.net/pnp/) - Ilya Sergey @ilyasergey
