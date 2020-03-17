@@ -34,7 +34,7 @@ Clone wiki: `git clone https://github.com/ligurio/awesome-software-quality.wiki.
   * [In Russian](https://github.com/ligurio/awesome-software-quality/wiki/courses-in-russian)
 * [Podcasts](https://github.com/ligurio/awesome-software-quality/wiki/Podcasts)
 * Conferences: [Software Testing Conferences](http://testingconferences.org/)
-* [Workshops and interactive learning tools](#workshops-and-interactive-learning-tools)
+* [Workshops and interactive learning tools](https://github.com/ligurio/awesome-software-quality/wiki/Workshops)
 * [Bugs And Learned lessons](https://github.com/ligurio/awesome-software-quality/wiki/bugs-and-learned-lessons)
 * [Awesome lists](https://github.com/ligurio/awesome-software-quality/wiki/links-collections)
 
