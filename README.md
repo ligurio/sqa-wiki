@@ -17,26 +17,10 @@
 ### Introduction
 
 This [wiki](https://github.com/ligurio/awesome-software-quality/wiki) collects resources for anyone considering the use of software testing and formal methods. 
-
-There are many axes along which one can organize such a list, such as the level of expertise of the intended audience (from experts to the public at large) or disciplinary orientation (computer science, mathematics, mathematical logic, etc.). Here I have chosen to classify the material by type of subject matter.
     
 If you would like add something, just send the text as you would like it to appear to estetus@gmail.com, preferrably already formatted in markdown.
 
 Clone wiki: `git clone https://github.com/ligurio/awesome-software-quality.wiki.git`
-
-## Content
-
-* Books:
-  * [In English](https://github.com/ligurio/awesome-software-quality/wiki/books-in-english)
-  * [In Russian](https://github.com/ligurio/awesome-software-quality/wiki/books-in-russian)
-* Courses:
-  * [In English](https://github.com/ligurio/awesome-software-quality/wiki/courses-in-english)
-  * [In Russian](https://github.com/ligurio/awesome-software-quality/wiki/courses-in-russian)
-* [Podcasts](https://github.com/ligurio/awesome-software-quality/wiki/Podcasts)
-* Conferences: [Software Testing Conferences](http://testingconferences.org/)
-* [Workshops and interactive learning tools](https://github.com/ligurio/awesome-software-quality/wiki/learning-tools)
-* [Bugs And Learned lessons](https://github.com/ligurio/awesome-software-quality/wiki/bugs-and-learned-lessons)
-* [Awesome lists](https://github.com/ligurio/awesome-software-quality/wiki/links-collections)
 
 ### License
 
