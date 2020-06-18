@@ -14,13 +14,7 @@
 - Facebook: https://www.facebook.com/sqaunderhood/
 - VK: https://vk.com/sqaunderhood
 
-### Introduction
-
-This [wiki](https://github.com/ligurio/awesome-software-quality/wiki) collects resources for anyone considering the use of software testing and formal methods. 
-    
-If you would like add something, just send the text as you would like it to appear to estetus@gmail.com, preferrably already formatted in markdown.
-
-Clone wiki: `git clone https://github.com/ligurio/awesome-software-quality.wiki.git`
+# Explore [Wiki](https://github.com/ligurio/awesome-software-quality/wiki)
 
 ### License
 
