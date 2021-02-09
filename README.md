@@ -1,11 +1,8 @@
-## List of Free Software Testing Resources
+## Welcome to Software Quality Wiki!
 
-[![Build Status](https://travis-ci.org/ligurio/awesome-software-quality.svg?branch=master)](https://travis-ci.org/ligurio/awesome-software-quality)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**[Subscribe](https://github.com/ligurio/awesome-software-quality/subscription) to receive notificatons with updates.**
-
-### Community
+### Follow us in social networks:
 
 <img src="sqaunderhood-logo.svg" align="left" alt="sqaunderhood logo" width="100" style="padding: 10px;"/>
 
@@ -14,7 +11,9 @@
 - [Facebook](https://www.facebook.com/sqaunderhood)/sqaunderhood
 - [VK](https://vk.com/sqaunderhood)/sqaunderhood
 
-# Explore [Wiki](https://github.com/ligurio/awesome-software-quality/wiki)
+### Explore wiki
+
+read and contribute articles - https://github.com/ligurio/software-quality-wiki/wiki
 
 ### License
 
